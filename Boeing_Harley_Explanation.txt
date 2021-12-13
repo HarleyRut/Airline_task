@@ -7,4 +7,8 @@ Contained in this submission are:
 
 The rest of what is contained in the submission are files that are necessary for Boeing_Harley.exe to run that were created with pyinstaller.
 
+Boeing_Harley.py can be run by itself and will produce the three CSVs. As can Boeing_Harley.exe.
+
+Notes: Question 2 was interpreted as the last 6 months of recorded data and not the last 6 months from todays date. Question 3 required the addition of 2 months in 2017 to return the appropriate rolling average result for all of 2018.
+
 If there are any issues please don't hesitate to contact me.
