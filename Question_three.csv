@@ -1,0 +1,860 @@
+Airline,Airline,Date_Actual,Freight_In_(tonnes)
+Air Caledonie International,Air Caledonie International,2017-11-01,
+Air Caledonie International,Air Caledonie International,2017-12-01,
+Air Caledonie International,Air Caledonie International,2018-01-01,7.518000000000001
+Air Caledonie International,Air Caledonie International,2018-02-01,6.741333333333333
+Air Caledonie International,Air Caledonie International,2018-03-01,3.8906666666666667
+Air Caledonie International,Air Caledonie International,2018-04-01,5.5906666666666665
+Air Caledonie International,Air Caledonie International,2018-05-01,4.852666666666667
+Air Caledonie International,Air Caledonie International,2018-06-01,5.046333333333333
+Air Caledonie International,Air Caledonie International,2018-07-01,3.2593333333333327
+Air Caledonie International,Air Caledonie International,2018-08-01,4.817
+Air Caledonie International,Air Caledonie International,2018-09-01,4.7316666666666665
+Air Caledonie International,Air Caledonie International,2018-10-01,5.4093333333333335
+Air Caledonie International,Air Caledonie International,2018-11-01,4.114000000000001
+Air Caledonie International,Air Caledonie International,2018-12-01,3.251
+Air Canada,Air Canada,2017-11-01,
+Air Canada,Air Canada,2017-12-01,
+Air Canada,Air Canada,2018-01-01,352.9983333333333
+Air Canada,Air Canada,2018-02-01,322.4676666666666
+Air Canada,Air Canada,2018-03-01,282.28766666666667
+Air Canada,Air Canada,2018-04-01,322.54866666666663
+Air Canada,Air Canada,2018-05-01,386.13366666666667
+Air Canada,Air Canada,2018-06-01,448.3783333333334
+Air Canada,Air Canada,2018-07-01,442.0176666666667
+Air Canada,Air Canada,2018-08-01,443.863
+Air Canada,Air Canada,2018-09-01,382.5056666666667
+Air Canada,Air Canada,2018-10-01,372.247
+Air Canada,Air Canada,2018-11-01,339.49766666666665
+Air Canada,Air Canada,2018-12-01,351.597
+Air China,Air China,2017-11-01,
+Air China,Air China,2017-12-01,
+Air China,Air China,2018-01-01,959.0966666666667
+Air China,Air China,2018-02-01,837.3293333333335
+Air China,Air China,2018-03-01,718.6930000000001
+Air China,Air China,2018-04-01,606.9110000000001
+Air China,Air China,2018-05-01,573.7663333333334
+Air China,Air China,2018-06-01,536.8106666666666
+Air China,Air China,2018-07-01,473.7436666666667
+Air China,Air China,2018-08-01,406.93799999999993
+Air China,Air China,2018-09-01,364.58033333333333
+Air China,Air China,2018-10-01,368.8329999999999
+Air China,Air China,2018-11-01,367.94699999999995
+Air China,Air China,2018-12-01,443.05099999999993
+Air India,Air India,2017-11-01,
+Air India,Air India,2017-12-01,
+Air India,Air India,2018-01-01,195.03833333333333
+Air India,Air India,2018-02-01,176.83766666666668
+Air India,Air India,2018-03-01,161.22666666666666
+Air India,Air India,2018-04-01,152.769
+Air India,Air India,2018-05-01,131.28666666666666
+Air India,Air India,2018-06-01,116.58999999999999
+Air India,Air India,2018-07-01,121.351
+Air India,Air India,2018-08-01,130.1676666666667
+Air India,Air India,2018-09-01,153.7566666666667
+Air India,Air India,2018-10-01,189.63199999999998
+Air India,Air India,2018-11-01,224.04
+Air India,Air India,2018-12-01,216.58
+Air Mauritius,Air Mauritius,2017-11-01,
+Air Mauritius,Air Mauritius,2017-12-01,
+Air Mauritius,Air Mauritius,2018-01-01,68.72066666666667
+Air Mauritius,Air Mauritius,2018-02-01,55.584
+Air Mauritius,Air Mauritius,2018-03-01,46.89933333333334
+Air Mauritius,Air Mauritius,2018-04-01,37.46733333333333
+Air Mauritius,Air Mauritius,2018-05-01,35.407333333333334
+Air Mauritius,Air Mauritius,2018-06-01,28.567999999999998
+Air Mauritius,Air Mauritius,2018-07-01,30.481333333333335
+Air Mauritius,Air Mauritius,2018-08-01,36.53666666666666
+Air Mauritius,Air Mauritius,2018-09-01,50.38666666666666
+Air Mauritius,Air Mauritius,2018-10-01,55.992
+Air Mauritius,Air Mauritius,2018-11-01,54.034333333333336
+Air Mauritius,Air Mauritius,2018-12-01,52.29566666666667
+Air New Zealand,Air New Zealand,2017-11-01,
+Air New Zealand,Air New Zealand,2017-12-01,
+Air New Zealand,Air New Zealand,2018-01-01,2907.157333333333
+Air New Zealand,Air New Zealand,2018-02-01,3044.5633333333335
+Air New Zealand,Air New Zealand,2018-03-01,3024.9480000000003
+Air New Zealand,Air New Zealand,2018-04-01,2750.615666666667
+Air New Zealand,Air New Zealand,2018-05-01,2507.67
+Air New Zealand,Air New Zealand,2018-06-01,2334.6373333333336
+Air New Zealand,Air New Zealand,2018-07-01,2513.393
+Air New Zealand,Air New Zealand,2018-08-01,2565.4273333333335
+Air New Zealand,Air New Zealand,2018-09-01,2479.219
+Air New Zealand,Air New Zealand,2018-10-01,2354.711
+Air New Zealand,Air New Zealand,2018-11-01,2317.649
+Air New Zealand,Air New Zealand,2018-12-01,2519.326
+Air Niugini,Air Niugini,2017-11-01,
+Air Niugini,Air Niugini,2017-12-01,
+Air Niugini,Air Niugini,2018-01-01,48.407999999999994
+Air Niugini,Air Niugini,2018-02-01,47.60966666666667
+Air Niugini,Air Niugini,2018-03-01,43.318999999999996
+Air Niugini,Air Niugini,2018-04-01,35.57866666666666
+Air Niugini,Air Niugini,2018-05-01,32.82633333333333
+Air Niugini,Air Niugini,2018-06-01,34.51066666666666
+Air Niugini,Air Niugini,2018-07-01,32.69133333333334
+Air Niugini,Air Niugini,2018-08-01,32.53066666666667
+Air Niugini,Air Niugini,2018-09-01,29.459000000000003
+Air Niugini,Air Niugini,2018-10-01,31.251333333333335
+Air Niugini,Air Niugini,2018-11-01,36.762
+Air Niugini,Air Niugini,2018-12-01,43.73733333333334
+Air Vanuatu,Air Vanuatu,2017-11-01,
+Air Vanuatu,Air Vanuatu,2017-12-01,
+Air Vanuatu,Air Vanuatu,2018-01-01,3.0716666666666668
+Air Vanuatu,Air Vanuatu,2018-02-01,2.811666666666666
+Air Vanuatu,Air Vanuatu,2018-03-01,3.6923333333333335
+Air Vanuatu,Air Vanuatu,2018-04-01,4.560666666666666
+Air Vanuatu,Air Vanuatu,2018-05-01,4.920333333333333
+Air Vanuatu,Air Vanuatu,2018-06-01,4.1963333333333335
+Air Vanuatu,Air Vanuatu,2018-07-01,3.3476666666666666
+Air Vanuatu,Air Vanuatu,2018-08-01,2.9963333333333337
+Air Vanuatu,Air Vanuatu,2018-09-01,3.165333333333333
+Air Vanuatu,Air Vanuatu,2018-10-01,3.9779999999999998
+Air Vanuatu,Air Vanuatu,2018-11-01,4.749666666666666
+Air Vanuatu,Air Vanuatu,2018-12-01,4.089999999999999
+AirAsia X,AirAsia X,2017-11-01,
+AirAsia X,AirAsia X,2017-12-01,
+AirAsia X,AirAsia X,2018-01-01,1203.4396666666669
+AirAsia X,AirAsia X,2018-02-01,858.1909999999999
+AirAsia X,AirAsia X,2018-03-01,803.6586666666667
+AirAsia X,AirAsia X,2018-04-01,917.4706666666667
+AirAsia X,AirAsia X,2018-05-01,1157.9453333333333
+AirAsia X,AirAsia X,2018-06-01,1271.1163333333334
+AirAsia X,AirAsia X,2018-07-01,1242.2036666666668
+AirAsia X,AirAsia X,2018-08-01,1238.7306666666666
+AirAsia X,AirAsia X,2018-09-01,1196.64
+AirAsia X,AirAsia X,2018-10-01,1188.6319999999998
+AirAsia X,AirAsia X,2018-11-01,1199.546
+AirAsia X,AirAsia X,2018-12-01,1150.452
+All Nippon Airways,All Nippon Airways,2017-11-01,
+All Nippon Airways,All Nippon Airways,2017-12-01,
+All Nippon Airways,All Nippon Airways,2018-01-01,430.76
+All Nippon Airways,All Nippon Airways,2018-02-01,354.93100000000004
+All Nippon Airways,All Nippon Airways,2018-03-01,298.145
+All Nippon Airways,All Nippon Airways,2018-04-01,298.07433333333336
+All Nippon Airways,All Nippon Airways,2018-05-01,309.437
+All Nippon Airways,All Nippon Airways,2018-06-01,360.7806666666667
+All Nippon Airways,All Nippon Airways,2018-07-01,384.43100000000004
+All Nippon Airways,All Nippon Airways,2018-08-01,442.04133333333334
+All Nippon Airways,All Nippon Airways,2018-09-01,457.1193333333333
+All Nippon Airways,All Nippon Airways,2018-10-01,462.0276666666667
+All Nippon Airways,All Nippon Airways,2018-11-01,448.2003333333333
+All Nippon Airways,All Nippon Airways,2018-12-01,441.164
+American Airlines,American Airlines,2017-11-01,
+American Airlines,American Airlines,2017-12-01,
+American Airlines,American Airlines,2018-01-01,22.008
+American Airlines,American Airlines,2018-02-01,14.308
+American Airlines,American Airlines,2018-03-01,7.293333333333334
+American Airlines,American Airlines,2018-04-01,13.384666666666666
+American Airlines,American Airlines,2018-05-01,30.472333333333335
+American Airlines,American Airlines,2018-06-01,37.077666666666666
+American Airlines,American Airlines,2018-07-01,29.304333333333336
+American Airlines,American Airlines,2018-08-01,64.27566666666667
+American Airlines,American Airlines,2018-09-01,71.139
+American Airlines,American Airlines,2018-10-01,72.20733333333332
+American Airlines,American Airlines,2018-11-01,19.832666666666665
+American Airlines,American Airlines,2018-12-01,5.2059999999999995
+Asiana Airlines,Asiana Airlines,2017-11-01,
+Asiana Airlines,Asiana Airlines,2017-12-01,
+Asiana Airlines,Asiana Airlines,2018-01-01,153.868
+Asiana Airlines,Asiana Airlines,2018-02-01,178.52800000000002
+Asiana Airlines,Asiana Airlines,2018-03-01,193.94833333333335
+Asiana Airlines,Asiana Airlines,2018-04-01,201.07933333333335
+Asiana Airlines,Asiana Airlines,2018-05-01,202.8803333333333
+Asiana Airlines,Asiana Airlines,2018-06-01,187.23533333333333
+Asiana Airlines,Asiana Airlines,2018-07-01,178.02366666666668
+Asiana Airlines,Asiana Airlines,2018-08-01,166.11
+Asiana Airlines,Asiana Airlines,2018-09-01,169.99866666666668
+Asiana Airlines,Asiana Airlines,2018-10-01,164.67733333333334
+Asiana Airlines,Asiana Airlines,2018-11-01,176.04033333333334
+Asiana Airlines,Asiana Airlines,2018-12-01,163.25666666666666
+Batik Air Indonesia,Batik Air Indonesia,2017-11-01,
+Batik Air Indonesia,Batik Air Indonesia,2017-12-01,
+Batik Air Indonesia,Batik Air Indonesia,2018-01-01,0.0
+Batik Air Indonesia,Batik Air Indonesia,2018-02-01,0.0
+Batik Air Indonesia,Batik Air Indonesia,2018-03-01,0.0
+Batik Air Indonesia,Batik Air Indonesia,2018-04-01,0.0
+Batik Air Indonesia,Batik Air Indonesia,2018-05-01,0.0
+Batik Air Indonesia,Batik Air Indonesia,2018-06-01,0.0
+Batik Air Indonesia,Batik Air Indonesia,2018-07-01,0.0
+Batik Air Indonesia,Batik Air Indonesia,2018-08-01,0.0
+Batik Air Indonesia,Batik Air Indonesia,2018-09-01,0.0
+Batik Air Indonesia,Batik Air Indonesia,2018-10-01,0.0
+Batik Air Indonesia,Batik Air Indonesia,2018-11-01,0.0
+Batik Air Indonesia,Batik Air Indonesia,2018-12-01,0.0
+Beijing Capital Airlines,Beijing Capital Airlines,2017-11-01,
+Beijing Capital Airlines,Beijing Capital Airlines,2017-12-01,
+Beijing Capital Airlines,Beijing Capital Airlines,2018-01-01,297.6106666666667
+Beijing Capital Airlines,Beijing Capital Airlines,2018-02-01,239.1446666666667
+Beijing Capital Airlines,Beijing Capital Airlines,2018-03-01,216.3096666666667
+Beijing Capital Airlines,Beijing Capital Airlines,2018-04-01,184.59966666666665
+Beijing Capital Airlines,Beijing Capital Airlines,2018-05-01,218.97400000000002
+Beijing Capital Airlines,Beijing Capital Airlines,2018-06-01,183.833
+Beijing Capital Airlines,Beijing Capital Airlines,2018-07-01,187.13633333333334
+Beijing Capital Airlines,Beijing Capital Airlines,2018-08-01,165.54966666666667
+Beijing Capital Airlines,Beijing Capital Airlines,2018-09-01,194.68133333333333
+Beijing Capital Airlines,Beijing Capital Airlines,2018-10-01,205.14866666666663
+Beijing Capital Airlines,Beijing Capital Airlines,2018-11-01,235.323
+Beijing Capital Airlines,Beijing Capital Airlines,2018-12-01,233.27133333333336
+British Airways,British Airways,2017-11-01,
+British Airways,British Airways,2017-12-01,
+British Airways,British Airways,2018-01-01,392.0523333333333
+British Airways,British Airways,2018-02-01,359.4293333333333
+British Airways,British Airways,2018-03-01,365.3006666666667
+British Airways,British Airways,2018-04-01,379.33199999999994
+British Airways,British Airways,2018-05-01,406.85533333333336
+British Airways,British Airways,2018-06-01,415.925
+British Airways,British Airways,2018-07-01,403.016
+British Airways,British Airways,2018-08-01,388.6033333333333
+British Airways,British Airways,2018-09-01,385.63599999999997
+British Airways,British Airways,2018-10-01,411.22633333333334
+British Airways,British Airways,2018-11-01,419.7743333333333
+British Airways,British Airways,2018-12-01,403.15633333333335
+Cathay Pacific Airways,Cathay Pacific Airways,2017-11-01,
+Cathay Pacific Airways,Cathay Pacific Airways,2017-12-01,
+Cathay Pacific Airways,Cathay Pacific Airways,2018-01-01,3285.047666666667
+Cathay Pacific Airways,Cathay Pacific Airways,2018-02-01,3077.2853333333333
+Cathay Pacific Airways,Cathay Pacific Airways,2018-03-01,3011.965
+Cathay Pacific Airways,Cathay Pacific Airways,2018-04-01,3066.8366666666666
+Cathay Pacific Airways,Cathay Pacific Airways,2018-05-01,3191.4816666666666
+Cathay Pacific Airways,Cathay Pacific Airways,2018-06-01,3359.3993333333333
+Cathay Pacific Airways,Cathay Pacific Airways,2018-07-01,3566.906666666667
+Cathay Pacific Airways,Cathay Pacific Airways,2018-08-01,3705.222333333333
+Cathay Pacific Airways,Cathay Pacific Airways,2018-09-01,3593.501
+Cathay Pacific Airways,Cathay Pacific Airways,2018-10-01,3553.7396666666664
+Cathay Pacific Airways,Cathay Pacific Airways,2018-11-01,3426.0056666666665
+Cathay Pacific Airways,Cathay Pacific Airways,2018-12-01,3471.3170000000005
+Cebu Pacific Air,Cebu Pacific Air,2017-11-01,
+Cebu Pacific Air,Cebu Pacific Air,2017-12-01,
+Cebu Pacific Air,Cebu Pacific Air,2018-01-01,258.26233333333334
+Cebu Pacific Air,Cebu Pacific Air,2018-02-01,250.2586666666667
+Cebu Pacific Air,Cebu Pacific Air,2018-03-01,237.73033333333333
+Cebu Pacific Air,Cebu Pacific Air,2018-04-01,215.7536666666667
+Cebu Pacific Air,Cebu Pacific Air,2018-05-01,209.55133333333333
+Cebu Pacific Air,Cebu Pacific Air,2018-06-01,205.45933333333335
+Cebu Pacific Air,Cebu Pacific Air,2018-07-01,210.81233333333333
+Cebu Pacific Air,Cebu Pacific Air,2018-08-01,235.0476666666667
+Cebu Pacific Air,Cebu Pacific Air,2018-09-01,286.29333333333335
+Cebu Pacific Air,Cebu Pacific Air,2018-10-01,339.53433333333334
+Cebu Pacific Air,Cebu Pacific Air,2018-11-01,333.1513333333333
+Cebu Pacific Air,Cebu Pacific Air,2018-12-01,301.137
+China Airlines,China Airlines,2017-11-01,
+China Airlines,China Airlines,2017-12-01,
+China Airlines,China Airlines,2018-01-01,400.713
+China Airlines,China Airlines,2018-02-01,450.94966666666664
+China Airlines,China Airlines,2018-03-01,457.18533333333335
+China Airlines,China Airlines,2018-04-01,509.0746666666667
+China Airlines,China Airlines,2018-05-01,533.7103333333333
+China Airlines,China Airlines,2018-06-01,607.1210000000001
+China Airlines,China Airlines,2018-07-01,636.3723333333334
+China Airlines,China Airlines,2018-08-01,626.3166666666667
+China Airlines,China Airlines,2018-09-01,586.4066666666668
+China Airlines,China Airlines,2018-10-01,595.3643333333335
+China Airlines,China Airlines,2018-11-01,577.8940000000001
+China Airlines,China Airlines,2018-12-01,601.2476666666668
+China Eastern Airlines,China Eastern Airlines,2017-11-01,
+China Eastern Airlines,China Eastern Airlines,2017-12-01,
+China Eastern Airlines,China Eastern Airlines,2018-01-01,879.9903333333335
+China Eastern Airlines,China Eastern Airlines,2018-02-01,811.8213333333333
+China Eastern Airlines,China Eastern Airlines,2018-03-01,784.464
+China Eastern Airlines,China Eastern Airlines,2018-04-01,789.1703333333335
+China Eastern Airlines,China Eastern Airlines,2018-05-01,772.0500000000001
+China Eastern Airlines,China Eastern Airlines,2018-06-01,681.4743333333334
+China Eastern Airlines,China Eastern Airlines,2018-07-01,664.024
+China Eastern Airlines,China Eastern Airlines,2018-08-01,656.4646666666667
+China Eastern Airlines,China Eastern Airlines,2018-09-01,712.4350000000001
+China Eastern Airlines,China Eastern Airlines,2018-10-01,754.9323333333335
+China Eastern Airlines,China Eastern Airlines,2018-11-01,822.6236666666668
+China Eastern Airlines,China Eastern Airlines,2018-12-01,777.1543333333334
+China Southern Airlines,China Southern Airlines,2017-11-01,
+China Southern Airlines,China Southern Airlines,2017-12-01,
+China Southern Airlines,China Southern Airlines,2018-01-01,1861.4956666666667
+China Southern Airlines,China Southern Airlines,2018-02-01,1475.7463333333335
+China Southern Airlines,China Southern Airlines,2018-03-01,1255.579
+China Southern Airlines,China Southern Airlines,2018-04-01,1452.5666666666666
+China Southern Airlines,China Southern Airlines,2018-05-01,1564.7333333333333
+China Southern Airlines,China Southern Airlines,2018-06-01,1688.2830000000001
+China Southern Airlines,China Southern Airlines,2018-07-01,1780.499
+China Southern Airlines,China Southern Airlines,2018-08-01,2092.3283333333334
+China Southern Airlines,China Southern Airlines,2018-09-01,2003.1096666666665
+China Southern Airlines,China Southern Airlines,2018-10-01,1734.68
+China Southern Airlines,China Southern Airlines,2018-11-01,1561.0623333333333
+China Southern Airlines,China Southern Airlines,2018-12-01,1579.8410000000001
+Delta Air Lines,Delta Air Lines,2017-11-01,
+Delta Air Lines,Delta Air Lines,2017-12-01,
+Delta Air Lines,Delta Air Lines,2018-01-01,188.66566666666668
+Delta Air Lines,Delta Air Lines,2018-02-01,206.26200000000003
+Delta Air Lines,Delta Air Lines,2018-03-01,233.4606666666667
+Delta Air Lines,Delta Air Lines,2018-04-01,262.781
+Delta Air Lines,Delta Air Lines,2018-05-01,271.5896666666667
+Delta Air Lines,Delta Air Lines,2018-06-01,291.1666666666667
+Delta Air Lines,Delta Air Lines,2018-07-01,337.183
+Delta Air Lines,Delta Air Lines,2018-08-01,379.31800000000004
+Delta Air Lines,Delta Air Lines,2018-09-01,366.55633333333327
+Delta Air Lines,Delta Air Lines,2018-10-01,327.5503333333333
+Delta Air Lines,Delta Air Lines,2018-11-01,262.44533333333334
+Delta Air Lines,Delta Air Lines,2018-12-01,239.40099999999998
+Donghai Airlines,Donghai Airlines,2018-05-01,
+Donghai Airlines,Donghai Airlines,2018-06-01,
+Donghai Airlines,Donghai Airlines,2018-07-01,1.1176666666666668
+Donghai Airlines,Donghai Airlines,2018-08-01,3.2323333333333335
+Donghai Airlines,Donghai Airlines,2018-09-01,3.996
+Donghai Airlines,Donghai Airlines,2018-10-01,2.8783333333333334
+Donghai Airlines,Donghai Airlines,2018-11-01,2.954333333333333
+Donghai Airlines,Donghai Airlines,2018-12-01,2.8653333333333335
+Emirates,Emirates,2017-11-01,
+Emirates,Emirates,2017-12-01,
+Emirates,Emirates,2018-01-01,4026.0353333333333
+Emirates,Emirates,2018-02-01,3872.6813333333334
+Emirates,Emirates,2018-03-01,3847.699
+Emirates,Emirates,2018-04-01,3786.504333333333
+Emirates,Emirates,2018-05-01,3591.856333333333
+Emirates,Emirates,2018-06-01,3524.0809999999997
+Emirates,Emirates,2018-07-01,3816.285
+Emirates,Emirates,2018-08-01,3995.3193333333334
+Emirates,Emirates,2018-09-01,4017.4126666666666
+Emirates,Emirates,2018-10-01,4001.289666666667
+Emirates,Emirates,2018-11-01,4068.0049999999997
+Emirates,Emirates,2018-12-01,4111.504333333333
+Etihad Airways,Etihad Airways,2017-11-01,
+Etihad Airways,Etihad Airways,2017-12-01,
+Etihad Airways,Etihad Airways,2018-01-01,1170.633
+Etihad Airways,Etihad Airways,2018-02-01,1000.4163333333332
+Etihad Airways,Etihad Airways,2018-03-01,1025.853
+Etihad Airways,Etihad Airways,2018-04-01,1189.6
+Etihad Airways,Etihad Airways,2018-05-01,1370.558
+Etihad Airways,Etihad Airways,2018-06-01,1425.3546666666668
+Etihad Airways,Etihad Airways,2018-07-01,1259.8093333333334
+Etihad Airways,Etihad Airways,2018-08-01,1074.655
+Etihad Airways,Etihad Airways,2018-09-01,911.7330000000001
+Etihad Airways,Etihad Airways,2018-10-01,910.1390000000001
+Etihad Airways,Etihad Airways,2018-11-01,953.5266666666666
+Etihad Airways,Etihad Airways,2018-12-01,917.0626666666667
+Eva Air,Eva Air,2017-11-01,
+Eva Air,Eva Air,2017-12-01,
+Eva Air,Eva Air,2018-01-01,148.56966666666668
+Eva Air,Eva Air,2018-02-01,138.34566666666666
+Eva Air,Eva Air,2018-03-01,124.64133333333332
+Eva Air,Eva Air,2018-04-01,132.63199999999998
+Eva Air,Eva Air,2018-05-01,132.96533333333332
+Eva Air,Eva Air,2018-06-01,152.011
+Eva Air,Eva Air,2018-07-01,176.86599999999999
+Eva Air,Eva Air,2018-08-01,197.18633333333332
+Eva Air,Eva Air,2018-09-01,199.33866666666665
+Eva Air,Eva Air,2018-10-01,180.571
+Eva Air,Eva Air,2018-11-01,187.38166666666666
+Eva Air,Eva Air,2018-12-01,198.111
+Federal Express Corporation,Federal Express Corporation,2017-11-01,
+Federal Express Corporation,Federal Express Corporation,2017-12-01,
+Federal Express Corporation,Federal Express Corporation,2018-01-01,1150.934
+Federal Express Corporation,Federal Express Corporation,2018-02-01,1099.4886666666666
+Federal Express Corporation,Federal Express Corporation,2018-03-01,1060.0573333333334
+Federal Express Corporation,Federal Express Corporation,2018-04-01,1111.038
+Federal Express Corporation,Federal Express Corporation,2018-05-01,1134.4173333333335
+Federal Express Corporation,Federal Express Corporation,2018-06-01,1124.7543333333333
+Federal Express Corporation,Federal Express Corporation,2018-07-01,1147.5020000000002
+Federal Express Corporation,Federal Express Corporation,2018-08-01,1166.9003333333333
+Federal Express Corporation,Federal Express Corporation,2018-09-01,1181.217
+Federal Express Corporation,Federal Express Corporation,2018-10-01,1194.015
+Federal Express Corporation,Federal Express Corporation,2018-11-01,1338.2356666666667
+Federal Express Corporation,Federal Express Corporation,2018-12-01,1579.979
+Fiji Airways,Fiji Airways,2017-11-01,
+Fiji Airways,Fiji Airways,2017-12-01,
+Fiji Airways,Fiji Airways,2018-01-01,310.2633333333333
+Fiji Airways,Fiji Airways,2018-02-01,302.83500000000004
+Fiji Airways,Fiji Airways,2018-03-01,287.21633333333335
+Fiji Airways,Fiji Airways,2018-04-01,265.8666666666666
+Fiji Airways,Fiji Airways,2018-05-01,270.64033333333333
+Fiji Airways,Fiji Airways,2018-06-01,288.958
+Fiji Airways,Fiji Airways,2018-07-01,341.51866666666666
+Fiji Airways,Fiji Airways,2018-08-01,398.73600000000005
+Fiji Airways,Fiji Airways,2018-09-01,377.388
+Fiji Airways,Fiji Airways,2018-10-01,352.26366666666667
+Fiji Airways,Fiji Airways,2018-11-01,301.162
+Fiji Airways,Fiji Airways,2018-12-01,297.70366666666666
+Garuda Indonesia,Garuda Indonesia,2017-11-01,
+Garuda Indonesia,Garuda Indonesia,2017-12-01,
+Garuda Indonesia,Garuda Indonesia,2018-01-01,609.959
+Garuda Indonesia,Garuda Indonesia,2018-02-01,567.77
+Garuda Indonesia,Garuda Indonesia,2018-03-01,595.577
+Garuda Indonesia,Garuda Indonesia,2018-04-01,667.6726666666667
+Garuda Indonesia,Garuda Indonesia,2018-05-01,688.3263333333334
+Garuda Indonesia,Garuda Indonesia,2018-06-01,692.4016666666666
+Garuda Indonesia,Garuda Indonesia,2018-07-01,625.5079999999999
+Garuda Indonesia,Garuda Indonesia,2018-08-01,550.0263333333334
+Garuda Indonesia,Garuda Indonesia,2018-09-01,502.4923333333333
+Garuda Indonesia,Garuda Indonesia,2018-10-01,606.9019999999999
+Garuda Indonesia,Garuda Indonesia,2018-11-01,762.906
+Garuda Indonesia,Garuda Indonesia,2018-12-01,833.027
+Hainan Airlines,Hainan Airlines,2017-11-01,
+Hainan Airlines,Hainan Airlines,2017-12-01,
+Hainan Airlines,Hainan Airlines,2018-01-01,319.473
+Hainan Airlines,Hainan Airlines,2018-02-01,302.9256666666667
+Hainan Airlines,Hainan Airlines,2018-03-01,312.384
+Hainan Airlines,Hainan Airlines,2018-04-01,387.9870000000001
+Hainan Airlines,Hainan Airlines,2018-05-01,476.29600000000005
+Hainan Airlines,Hainan Airlines,2018-06-01,513.3733333333333
+Hainan Airlines,Hainan Airlines,2018-07-01,484.87100000000004
+Hainan Airlines,Hainan Airlines,2018-08-01,458.1893333333333
+Hainan Airlines,Hainan Airlines,2018-09-01,447.5826666666667
+Hainan Airlines,Hainan Airlines,2018-10-01,465.66966666666667
+Hainan Airlines,Hainan Airlines,2018-11-01,487.098
+Hainan Airlines,Hainan Airlines,2018-12-01,491.3546666666667
+Hawaiian Airlines,Hawaiian Airlines,2017-11-01,
+Hawaiian Airlines,Hawaiian Airlines,2017-12-01,
+Hawaiian Airlines,Hawaiian Airlines,2018-01-01,182.83833333333337
+Hawaiian Airlines,Hawaiian Airlines,2018-02-01,170.52166666666673
+Hawaiian Airlines,Hawaiian Airlines,2018-03-01,160.98100000000002
+Hawaiian Airlines,Hawaiian Airlines,2018-04-01,159.04600000000002
+Hawaiian Airlines,Hawaiian Airlines,2018-05-01,161.57600000000005
+Hawaiian Airlines,Hawaiian Airlines,2018-06-01,154.45266666666672
+Hawaiian Airlines,Hawaiian Airlines,2018-07-01,157.6746666666667
+Hawaiian Airlines,Hawaiian Airlines,2018-08-01,167.6963333333334
+Hawaiian Airlines,Hawaiian Airlines,2018-09-01,177.35833333333338
+Hawaiian Airlines,Hawaiian Airlines,2018-10-01,183.30600000000004
+Hawaiian Airlines,Hawaiian Airlines,2018-11-01,177.69466666666673
+Hawaiian Airlines,Hawaiian Airlines,2018-12-01,171.69466666666668
+Hong Kong Airlines,Hong Kong Airlines,2017-11-01,
+Hong Kong Airlines,Hong Kong Airlines,2017-12-01,
+Hong Kong Airlines,Hong Kong Airlines,2018-01-01,234.26800000000003
+Hong Kong Airlines,Hong Kong Airlines,2018-02-01,234.44133333333335
+Hong Kong Airlines,Hong Kong Airlines,2018-03-01,216.92600000000004
+Hong Kong Airlines,Hong Kong Airlines,2018-04-01,186.98366666666672
+Hong Kong Airlines,Hong Kong Airlines,2018-05-01,193.6963333333334
+Hong Kong Airlines,Hong Kong Airlines,2018-06-01,174.69600000000003
+Hong Kong Airlines,Hong Kong Airlines,2018-07-01,170.05900000000005
+Hong Kong Airlines,Hong Kong Airlines,2018-08-01,147.5976666666667
+Hong Kong Airlines,Hong Kong Airlines,2018-09-01,140.85600000000002
+Hong Kong Airlines,Hong Kong Airlines,2018-10-01,130.33933333333337
+Indonesia AirAsia,Indonesia AirAsia,2017-11-01,
+Indonesia AirAsia,Indonesia AirAsia,2017-12-01,
+Indonesia AirAsia,Indonesia AirAsia,2018-01-01,23.681666666666704
+Indonesia AirAsia,Indonesia AirAsia,2018-02-01,19.420000000000037
+Indonesia AirAsia,Indonesia AirAsia,2018-03-01,28.92833333333337
+Indonesia AirAsia,Indonesia AirAsia,2018-04-01,29.94300000000004
+Indonesia AirAsia,Indonesia AirAsia,2018-05-01,29.31533333333337
+Indonesia AirAsia,Indonesia AirAsia,2018-06-01,23.454000000000036
+Indonesia AirAsia,Indonesia AirAsia,2018-07-01,26.385666666666705
+Indonesia AirAsia,Indonesia AirAsia,2018-08-01,23.95700000000004
+Indonesia AirAsia,Indonesia AirAsia,2018-09-01,24.323666666666707
+Indonesia AirAsia,Indonesia AirAsia,2018-10-01,18.927666666666706
+Indonesia AirAsia,Indonesia AirAsia,2018-11-01,15.215666666666706
+Indonesia AirAsia,Indonesia AirAsia,2018-12-01,10.679333333333373
+Japan Airlines,Japan Airlines,2017-11-01,
+Japan Airlines,Japan Airlines,2017-12-01,
+Japan Airlines,Japan Airlines,2018-01-01,287.06366666666673
+Japan Airlines,Japan Airlines,2018-02-01,263.2763333333334
+Japan Airlines,Japan Airlines,2018-03-01,275.96066666666667
+Japan Airlines,Japan Airlines,2018-04-01,298.0903333333334
+Japan Airlines,Japan Airlines,2018-05-01,357.12466666666666
+Japan Airlines,Japan Airlines,2018-06-01,379.6856666666667
+Japan Airlines,Japan Airlines,2018-07-01,444.5976666666667
+Japan Airlines,Japan Airlines,2018-08-01,471.3053333333334
+Japan Airlines,Japan Airlines,2018-09-01,452.08600000000007
+Japan Airlines,Japan Airlines,2018-10-01,433.35666666666674
+Japan Airlines,Japan Airlines,2018-11-01,371.14933333333335
+Japan Airlines,Japan Airlines,2018-12-01,368.0543333333333
+Jetstar,Jetstar,2017-11-01,
+Jetstar,Jetstar,2017-12-01,
+Jetstar,Jetstar,2018-01-01,1190.6653333333334
+Jetstar,Jetstar,2018-02-01,1007.46
+Jetstar,Jetstar,2018-03-01,1027.2306666666666
+Jetstar,Jetstar,2018-04-01,1173.2856666666667
+Jetstar,Jetstar,2018-05-01,1339.547
+Jetstar,Jetstar,2018-06-01,1415.8239999999998
+Jetstar,Jetstar,2018-07-01,1514.668
+Jetstar,Jetstar,2018-08-01,1449.6256666666668
+Jetstar,Jetstar,2018-09-01,1457.4233333333334
+Jetstar,Jetstar,2018-10-01,1453.0686666666668
+Jetstar,Jetstar,2018-11-01,1577.436
+Jetstar,Jetstar,2018-12-01,1488.844
+Jetstar Asia,Jetstar Asia,2017-11-01,
+Jetstar Asia,Jetstar Asia,2017-12-01,
+Jetstar Asia,Jetstar Asia,2018-01-01,13.845333333333334
+Jetstar Asia,Jetstar Asia,2018-02-01,10.936666666666667
+Jetstar Asia,Jetstar Asia,2018-03-01,7.909666666666666
+Jetstar Asia,Jetstar Asia,2018-04-01,8.091333333333333
+Jetstar Asia,Jetstar Asia,2018-05-01,8.688666666666666
+Jetstar Asia,Jetstar Asia,2018-06-01,8.586666666666666
+Jetstar Asia,Jetstar Asia,2018-07-01,6.938666666666666
+Jetstar Asia,Jetstar Asia,2018-08-01,7.321000000000001
+Jetstar Asia,Jetstar Asia,2018-09-01,8.088333333333333
+Jetstar Asia,Jetstar Asia,2018-10-01,9.333666666666668
+Jetstar Asia,Jetstar Asia,2018-11-01,9.866999999999999
+Jetstar Asia,Jetstar Asia,2018-12-01,9.543333333333335
+Jin Air,Jin Air,2017-12-01,
+Jin Air,Jin Air,2018-01-01,
+Korean Air,Korean Air,2017-11-01,
+Korean Air,Korean Air,2017-12-01,
+Korean Air,Korean Air,2018-01-01,259.23266666666666
+Korean Air,Korean Air,2018-02-01,243.4416666666667
+Korean Air,Korean Air,2018-03-01,226.085
+Korean Air,Korean Air,2018-04-01,214.8736666666667
+Korean Air,Korean Air,2018-05-01,213.8696666666667
+Korean Air,Korean Air,2018-06-01,194.89833333333334
+Korean Air,Korean Air,2018-07-01,203.95600000000002
+Korean Air,Korean Air,2018-08-01,184.95033333333333
+Korean Air,Korean Air,2018-09-01,185.928
+Korean Air,Korean Air,2018-10-01,178.44466666666665
+Korean Air,Korean Air,2018-11-01,186.35233333333335
+Korean Air,Korean Air,2018-12-01,185.04866666666666
+LATAM Airlines,LATAM Airlines,2017-11-01,
+LATAM Airlines,LATAM Airlines,2017-12-01,
+LATAM Airlines,LATAM Airlines,2018-01-01,286.624
+LATAM Airlines,LATAM Airlines,2018-02-01,276.844
+LATAM Airlines,LATAM Airlines,2018-03-01,265.56666666666666
+LATAM Airlines,LATAM Airlines,2018-04-01,222.328
+LATAM Airlines,LATAM Airlines,2018-05-01,230.06933333333336
+LATAM Airlines,LATAM Airlines,2018-06-01,199.45366666666666
+LATAM Airlines,LATAM Airlines,2018-07-01,207.74
+LATAM Airlines,LATAM Airlines,2018-08-01,216.21466666666666
+LATAM Airlines,LATAM Airlines,2018-09-01,216.07600000000002
+LATAM Airlines,LATAM Airlines,2018-10-01,228.91833333333332
+LATAM Airlines,LATAM Airlines,2018-11-01,222.53266666666664
+LATAM Airlines,LATAM Airlines,2018-12-01,245.957
+Malaysia Airlines,Malaysia Airlines,2017-11-01,
+Malaysia Airlines,Malaysia Airlines,2017-12-01,
+Malaysia Airlines,Malaysia Airlines,2018-01-01,1721.5526666666667
+Malaysia Airlines,Malaysia Airlines,2018-02-01,1490.6269999999997
+Malaysia Airlines,Malaysia Airlines,2018-03-01,1455.1013333333333
+Malaysia Airlines,Malaysia Airlines,2018-04-01,1631.5353333333333
+Malaysia Airlines,Malaysia Airlines,2018-05-01,1758.2106666666666
+Malaysia Airlines,Malaysia Airlines,2018-06-01,1784.5843333333332
+Malaysia Airlines,Malaysia Airlines,2018-07-01,1874.5176666666666
+Malaysia Airlines,Malaysia Airlines,2018-08-01,1950.175
+Malaysia Airlines,Malaysia Airlines,2018-09-01,2004.3103333333331
+Malaysia Airlines,Malaysia Airlines,2018-10-01,2069.5363333333335
+Malaysia Airlines,Malaysia Airlines,2018-11-01,2092.232666666667
+Malaysia Airlines,Malaysia Airlines,2018-12-01,1961.9606666666668
+Malindo Air,Malindo Air,2017-11-01,
+Malindo Air,Malindo Air,2017-12-01,
+Malindo Air,Malindo Air,2018-01-01,3.267
+Malindo Air,Malindo Air,2018-02-01,2.953666666666667
+Malindo Air,Malindo Air,2018-03-01,2.9593333333333334
+Malindo Air,Malindo Air,2018-04-01,3.276
+Malindo Air,Malindo Air,2018-05-01,3.142666666666667
+Malindo Air,Malindo Air,2018-06-01,3.2616666666666667
+Malindo Air,Malindo Air,2018-07-01,3.638333333333333
+Malindo Air,Malindo Air,2018-08-01,5.074666666666666
+Malindo Air,Malindo Air,2018-09-01,6.081333333333333
+Malindo Air,Malindo Air,2018-10-01,4.514666666666667
+Malindo Air,Malindo Air,2018-11-01,2.4116666666666666
+Malindo Air,Malindo Air,2018-12-01,0.0
+Nauru Airlines,Nauru Airlines,2017-11-01,
+Nauru Airlines,Nauru Airlines,2017-12-01,
+Nauru Airlines,Nauru Airlines,2018-01-01,3.167
+Nauru Airlines,Nauru Airlines,2018-02-01,2.4886666666666666
+Nauru Airlines,Nauru Airlines,2018-03-01,2.749333333333333
+Nauru Airlines,Nauru Airlines,2018-04-01,2.949333333333333
+Nauru Airlines,Nauru Airlines,2018-05-01,3.3796666666666666
+Nauru Airlines,Nauru Airlines,2018-06-01,4.558666666666666
+Nauru Airlines,Nauru Airlines,2018-07-01,3.5250000000000004
+Nauru Airlines,Nauru Airlines,2018-08-01,4.7026666666666666
+Nauru Airlines,Nauru Airlines,2018-09-01,3.8859999999999997
+Nauru Airlines,Nauru Airlines,2018-10-01,4.540333333333333
+Nauru Airlines,Nauru Airlines,2018-11-01,3.708
+Nauru Airlines,Nauru Airlines,2018-12-01,12.284333333333334
+Pacific Air Express,Pacific Air Express,2017-11-01,
+Pacific Air Express,Pacific Air Express,2017-12-01,
+Pacific Air Express,Pacific Air Express,2018-01-01,0.32500000000000123
+Pacific Air Express,Pacific Air Express,2018-02-01,0.9193333333333346
+Pacific Air Express,Pacific Air Express,2018-03-01,6.180000000000001
+Pacific Air Express,Pacific Air Express,2018-04-01,12.123666666666667
+Pacific Air Express,Pacific Air Express,2018-05-01,12.312333333333333
+Pacific Air Express,Pacific Air Express,2018-06-01,8.596666666666668
+Pacific Air Express,Pacific Air Express,2018-07-01,4.078000000000001
+Pacific Air Express,Pacific Air Express,2018-08-01,3.4193333333333347
+Pacific Air Express,Pacific Air Express,2018-09-01,2.430333333333335
+Pacific Air Express,Pacific Air Express,2018-10-01,1.0053333333333345
+Pacific Air Express,Pacific Air Express,2018-11-01,1.1653333333333344
+Pacific Air Express,Pacific Air Express,2018-12-01,0.5430000000000011
+Philippine Airlines,Philippine Airlines,2017-11-01,
+Philippine Airlines,Philippine Airlines,2017-12-01,
+Philippine Airlines,Philippine Airlines,2018-01-01,183.764
+Philippine Airlines,Philippine Airlines,2018-02-01,171.52833333333334
+Philippine Airlines,Philippine Airlines,2018-03-01,191.6293333333333
+Philippine Airlines,Philippine Airlines,2018-04-01,233.859
+Philippine Airlines,Philippine Airlines,2018-05-01,245.183
+Philippine Airlines,Philippine Airlines,2018-06-01,270.6296666666667
+Philippine Airlines,Philippine Airlines,2018-07-01,269.3053333333333
+Philippine Airlines,Philippine Airlines,2018-08-01,248.86533333333333
+Philippine Airlines,Philippine Airlines,2018-09-01,189.87733333333335
+Philippine Airlines,Philippine Airlines,2018-10-01,147.282
+Philippine Airlines,Philippine Airlines,2018-11-01,122.79533333333332
+Philippine Airlines,Philippine Airlines,2018-12-01,116.23066666666666
+Polar Air Cargo,Polar Air Cargo,2017-11-01,
+Polar Air Cargo,Polar Air Cargo,2017-12-01,
+Polar Air Cargo,Polar Air Cargo,2018-01-01,745.2403333333333
+Polar Air Cargo,Polar Air Cargo,2018-02-01,700.9290000000001
+Polar Air Cargo,Polar Air Cargo,2018-03-01,690.2816666666668
+Polar Air Cargo,Polar Air Cargo,2018-04-01,746.484
+Polar Air Cargo,Polar Air Cargo,2018-05-01,804.3813333333334
+Polar Air Cargo,Polar Air Cargo,2018-06-01,812.734
+Polar Air Cargo,Polar Air Cargo,2018-07-01,831.46
+Polar Air Cargo,Polar Air Cargo,2018-08-01,804.6363333333333
+Polar Air Cargo,Polar Air Cargo,2018-09-01,776.5516666666666
+Polar Air Cargo,Polar Air Cargo,2018-10-01,763.8423333333334
+Polar Air Cargo,Polar Air Cargo,2018-11-01,764.9876666666665
+Polar Air Cargo,Polar Air Cargo,2018-12-01,744.3136666666666
+Qantas Airways,Qantas Airways,2017-11-01,
+Qantas Airways,Qantas Airways,2017-12-01,
+Qantas Airways,Qantas Airways,2018-01-01,6250.109666666666
+Qantas Airways,Qantas Airways,2018-02-01,5688.060666666667
+Qantas Airways,Qantas Airways,2018-03-01,5646.247333333333
+Qantas Airways,Qantas Airways,2018-04-01,5791.574333333333
+Qantas Airways,Qantas Airways,2018-05-01,6055.258666666666
+Qantas Airways,Qantas Airways,2018-06-01,5959.969333333333
+Qantas Airways,Qantas Airways,2018-07-01,6299.519666666667
+Qantas Airways,Qantas Airways,2018-08-01,6619.7373333333335
+Qantas Airways,Qantas Airways,2018-09-01,6720.385666666666
+Qantas Airways,Qantas Airways,2018-10-01,6756.622666666667
+Qantas Airways,Qantas Airways,2018-11-01,6674.354666666666
+Qantas Airways,Qantas Airways,2018-12-01,6463.999000000001
+Qatar Airways,Qatar Airways,2017-11-01,
+Qatar Airways,Qatar Airways,2017-12-01,
+Qatar Airways,Qatar Airways,2018-01-01,1053.2286666666666
+Qatar Airways,Qatar Airways,2018-02-01,1118.6513333333335
+Qatar Airways,Qatar Airways,2018-03-01,1307.5046666666667
+Qatar Airways,Qatar Airways,2018-04-01,1401.8706666666667
+Qatar Airways,Qatar Airways,2018-05-01,1442.6136666666664
+Qatar Airways,Qatar Airways,2018-06-01,1367.049
+Qatar Airways,Qatar Airways,2018-07-01,1299.4066666666665
+Qatar Airways,Qatar Airways,2018-08-01,1276.3676666666668
+Qatar Airways,Qatar Airways,2018-09-01,1219.2513333333334
+Qatar Airways,Qatar Airways,2018-10-01,1269.1336666666666
+Qatar Airways,Qatar Airways,2018-11-01,1277.4753333333333
+Qatar Airways,Qatar Airways,2018-12-01,1246.9266666666665
+Royal Brunei Airlines,Royal Brunei Airlines,2017-11-01,
+Royal Brunei Airlines,Royal Brunei Airlines,2017-12-01,
+Royal Brunei Airlines,Royal Brunei Airlines,2018-01-01,236.70033333333325
+Royal Brunei Airlines,Royal Brunei Airlines,2018-02-01,229.88233333333324
+Royal Brunei Airlines,Royal Brunei Airlines,2018-03-01,228.52166666666656
+Royal Brunei Airlines,Royal Brunei Airlines,2018-04-01,229.12233333333324
+Royal Brunei Airlines,Royal Brunei Airlines,2018-05-01,220.73766666666657
+Royal Brunei Airlines,Royal Brunei Airlines,2018-06-01,225.86399999999995
+Royal Brunei Airlines,Royal Brunei Airlines,2018-07-01,226.7019999999999
+Royal Brunei Airlines,Royal Brunei Airlines,2018-08-01,238.8306666666666
+Royal Brunei Airlines,Royal Brunei Airlines,2018-09-01,228.84233333333327
+Royal Brunei Airlines,Royal Brunei Airlines,2018-10-01,227.84899999999993
+Royal Brunei Airlines,Royal Brunei Airlines,2018-11-01,196.59599999999992
+Royal Brunei Airlines,Royal Brunei Airlines,2018-12-01,184.97533333333328
+Samoa Airways,Samoa Airways,2018-03-01,
+Samoa Airways,Samoa Airways,2018-04-01,
+Samoa Airways,Samoa Airways,2018-05-01,0.0
+Samoa Airways,Samoa Airways,2018-06-01,0.09466666666659086
+Samoa Airways,Samoa Airways,2018-07-01,0.1746666666665909
+Samoa Airways,Samoa Airways,2018-08-01,0.3703333333332575
+Samoa Airways,Samoa Airways,2018-09-01,0.40466666666659085
+Samoa Airways,Samoa Airways,2018-10-01,0.5166666666665908
+Samoa Airways,Samoa Airways,2018-11-01,0.3479999999999242
+Samoa Airways,Samoa Airways,2018-12-01,0.21899999999992417
+Scoot Tigerair,Scoot Tigerair,2017-11-01,
+Scoot Tigerair,Scoot Tigerair,2017-12-01,
+Scoot Tigerair,Scoot Tigerair,2018-01-01,695.1786666666666
+Scoot Tigerair,Scoot Tigerair,2018-02-01,534.6226666666666
+Scoot Tigerair,Scoot Tigerair,2018-03-01,466.1369999999999
+Scoot Tigerair,Scoot Tigerair,2018-04-01,442.4356666666666
+Scoot Tigerair,Scoot Tigerair,2018-05-01,405.8916666666666
+Scoot Tigerair,Scoot Tigerair,2018-06-01,361.3119999999999
+Scoot Tigerair,Scoot Tigerair,2018-07-01,394.0693333333333
+Scoot Tigerair,Scoot Tigerair,2018-08-01,445.20833333333326
+Scoot Tigerair,Scoot Tigerair,2018-09-01,408.1409999999999
+Scoot Tigerair,Scoot Tigerair,2018-10-01,459.6493333333333
+Scoot Tigerair,Scoot Tigerair,2018-11-01,463.56266666666664
+Scoot Tigerair,Scoot Tigerair,2018-12-01,450.8529999999999
+Sichuan Airlines,Sichuan Airlines,2017-11-01,
+Sichuan Airlines,Sichuan Airlines,2017-12-01,
+Sichuan Airlines,Sichuan Airlines,2018-01-01,116.38066666666658
+Sichuan Airlines,Sichuan Airlines,2018-02-01,114.90299999999992
+Sichuan Airlines,Sichuan Airlines,2018-03-01,102.80799999999992
+Sichuan Airlines,Sichuan Airlines,2018-04-01,104.7706666666666
+Sichuan Airlines,Sichuan Airlines,2018-05-01,91.83266666666658
+Sichuan Airlines,Sichuan Airlines,2018-06-01,77.44066666666659
+Sichuan Airlines,Sichuan Airlines,2018-07-01,79.09399999999992
+Sichuan Airlines,Sichuan Airlines,2018-08-01,76.8766666666666
+Sichuan Airlines,Sichuan Airlines,2018-09-01,79.93466666666659
+Sichuan Airlines,Sichuan Airlines,2018-10-01,70.70333333333326
+Sichuan Airlines,Sichuan Airlines,2018-11-01,76.10666666666658
+Sichuan Airlines,Sichuan Airlines,2018-12-01,77.27733333333326
+Silk Air,Silk Air,2017-11-01,
+Silk Air,Silk Air,2017-12-01,
+Silk Air,Silk Air,2018-01-01,24.665666666666596
+Silk Air,Silk Air,2018-02-01,23.5116666666666
+Silk Air,Silk Air,2018-03-01,25.38899999999993
+Silk Air,Silk Air,2018-04-01,26.070333333333263
+Silk Air,Silk Air,2018-05-01,24.95533333333326
+Silk Air,Silk Air,2018-06-01,23.386666666666596
+Silk Air,Silk Air,2018-07-01,24.698666666666597
+Silk Air,Silk Air,2018-08-01,24.56033333333326
+Silk Air,Silk Air,2018-09-01,23.285333333333266
+Silk Air,Silk Air,2018-10-01,20.736666666666594
+Silk Air,Silk Air,2018-11-01,19.468666666666596
+Silk Air,Silk Air,2018-12-01,19.128666666666593
+Singapore Airlines,Singapore Airlines,2017-11-01,
+Singapore Airlines,Singapore Airlines,2017-12-01,
+Singapore Airlines,Singapore Airlines,2018-01-01,7677.174666666666
+Singapore Airlines,Singapore Airlines,2018-02-01,6749.7593333333325
+Singapore Airlines,Singapore Airlines,2018-03-01,6729.835666666666
+Singapore Airlines,Singapore Airlines,2018-04-01,6981.454666666667
+Singapore Airlines,Singapore Airlines,2018-05-01,7582.146666666667
+Singapore Airlines,Singapore Airlines,2018-06-01,7738.9726666666675
+Singapore Airlines,Singapore Airlines,2018-07-01,8059.162
+Singapore Airlines,Singapore Airlines,2018-08-01,8190.071
+Singapore Airlines,Singapore Airlines,2018-09-01,8254.678333333333
+Singapore Airlines,Singapore Airlines,2018-10-01,8159.488999999999
+Singapore Airlines,Singapore Airlines,2018-11-01,8189.914666666667
+Singapore Airlines,Singapore Airlines,2018-12-01,7930.204333333332
+Solomon Airlines,Solomon Airlines,2017-11-01,
+Solomon Airlines,Solomon Airlines,2017-12-01,
+Solomon Airlines,Solomon Airlines,2018-01-01,6.861333333332727
+Solomon Airlines,Solomon Airlines,2018-02-01,5.521999999999394
+Solomon Airlines,Solomon Airlines,2018-03-01,5.875999999999394
+Solomon Airlines,Solomon Airlines,2018-04-01,4.991333333332727
+Solomon Airlines,Solomon Airlines,2018-05-01,5.164666666666061
+Solomon Airlines,Solomon Airlines,2018-06-01,5.620333333332727
+Solomon Airlines,Solomon Airlines,2018-07-01,4.672333333332728
+Solomon Airlines,Solomon Airlines,2018-08-01,6.140666666666061
+Solomon Airlines,Solomon Airlines,2018-09-01,4.764999999999394
+Solomon Airlines,Solomon Airlines,2018-10-01,6.123333333332727
+Solomon Airlines,Solomon Airlines,2018-11-01,4.545666666666061
+Solomon Airlines,Solomon Airlines,2018-12-01,3.9059999999993944
+South African Airways,South African Airways,2017-11-01,
+South African Airways,South African Airways,2017-12-01,
+South African Airways,South African Airways,2018-01-01,95.88466666666606
+South African Airways,South African Airways,2018-02-01,90.40066666666605
+South African Airways,South African Airways,2018-03-01,92.66433333333272
+South African Airways,South African Airways,2018-04-01,87.42266666666605
+South African Airways,South African Airways,2018-05-01,102.30566666666607
+South African Airways,South African Airways,2018-06-01,94.45033333333272
+South African Airways,South African Airways,2018-07-01,98.36066666666606
+South African Airways,South African Airways,2018-08-01,103.21633333333273
+South African Airways,South African Airways,2018-09-01,113.06633333333274
+South African Airways,South African Airways,2018-10-01,117.1309999999994
+South African Airways,South African Airways,2018-11-01,104.05733333333274
+South African Airways,South African Airways,2018-12-01,98.35933333333274
+SriLankan Airlines,SriLankan Airlines,2017-11-01,
+SriLankan Airlines,SriLankan Airlines,2017-12-01,
+SriLankan Airlines,SriLankan Airlines,2018-01-01,186.13533333333274
+SriLankan Airlines,SriLankan Airlines,2018-02-01,171.24866666666608
+SriLankan Airlines,SriLankan Airlines,2018-03-01,182.27333333333274
+SriLankan Airlines,SriLankan Airlines,2018-04-01,201.0249999999994
+SriLankan Airlines,SriLankan Airlines,2018-05-01,201.98666666666608
+SriLankan Airlines,SriLankan Airlines,2018-06-01,186.77266666666605
+SriLankan Airlines,SriLankan Airlines,2018-07-01,195.1889999999994
+SriLankan Airlines,SriLankan Airlines,2018-08-01,218.19866666666607
+SriLankan Airlines,SriLankan Airlines,2018-09-01,248.8959999999994
+SriLankan Airlines,SriLankan Airlines,2018-10-01,261.7869999999994
+SriLankan Airlines,SriLankan Airlines,2018-11-01,260.6379999999994
+SriLankan Airlines,SriLankan Airlines,2018-12-01,248.20666666666605
+Tasman Cargo Airlines,Tasman Cargo Airlines,2017-11-01,
+Tasman Cargo Airlines,Tasman Cargo Airlines,2017-12-01,
+Tasman Cargo Airlines,Tasman Cargo Airlines,2018-01-01,424.47466666666605
+Tasman Cargo Airlines,Tasman Cargo Airlines,2018-02-01,387.77399999999943
+Tasman Cargo Airlines,Tasman Cargo Airlines,2018-03-01,386.23666666666605
+Tasman Cargo Airlines,Tasman Cargo Airlines,2018-04-01,379.3313333333328
+Tasman Cargo Airlines,Tasman Cargo Airlines,2018-05-01,376.5079999999994
+Tasman Cargo Airlines,Tasman Cargo Airlines,2018-06-01,322.7699999999994
+Tasman Cargo Airlines,Tasman Cargo Airlines,2018-07-01,357.747666666666
+Tasman Cargo Airlines,Tasman Cargo Airlines,2018-08-01,427.0766666666661
+Tasman Cargo Airlines,Tasman Cargo Airlines,2018-09-01,478.30299999999943
+Tasman Cargo Airlines,Tasman Cargo Airlines,2018-10-01,505.95333333333275
+Tasman Cargo Airlines,Tasman Cargo Airlines,2018-11-01,511.07966666666607
+Tasman Cargo Airlines,Tasman Cargo Airlines,2018-12-01,558.2899999999994
+Thai Airways International,Thai Airways International,2017-11-01,
+Thai Airways International,Thai Airways International,2017-12-01,
+Thai Airways International,Thai Airways International,2018-01-01,1335.4543333333327
+Thai Airways International,Thai Airways International,2018-02-01,1244.2063333333326
+Thai Airways International,Thai Airways International,2018-03-01,1314.8203333333327
+Thai Airways International,Thai Airways International,2018-04-01,1364.9526666666661
+Thai Airways International,Thai Airways International,2018-05-01,1445.8889999999992
+Thai Airways International,Thai Airways International,2018-06-01,1412.9333333333327
+Thai Airways International,Thai Airways International,2018-07-01,1479.5143333333326
+Thai Airways International,Thai Airways International,2018-08-01,1508.1959999999992
+Thai Airways International,Thai Airways International,2018-09-01,1542.3076666666664
+Thai Airways International,Thai Airways International,2018-10-01,1602.8073333333325
+Thai Airways International,Thai Airways International,2018-11-01,1494.4496666666662
+Thai Airways International,Thai Airways International,2018-12-01,1374.3646666666662
+Tianjin Airlines,Tianjin Airlines,2017-11-01,
+Tianjin Airlines,Tianjin Airlines,2017-12-01,
+Tianjin Airlines,Tianjin Airlines,2018-01-01,48.55699999999939
+Tianjin Airlines,Tianjin Airlines,2018-02-01,42.30366666666606
+Tianjin Airlines,Tianjin Airlines,2018-03-01,28.765333333332723
+Tianjin Airlines,Tianjin Airlines,2018-04-01,46.01899999999939
+Tianjin Airlines,Tianjin Airlines,2018-05-01,53.45733333333272
+Tianjin Airlines,Tianjin Airlines,2018-06-01,102.29033333333273
+Tianjin Airlines,Tianjin Airlines,2018-07-01,135.7713333333327
+Tianjin Airlines,Tianjin Airlines,2018-08-01,192.34133333333273
+Tianjin Airlines,Tianjin Airlines,2018-09-01,197.40233333333273
+Tianjin Airlines,Tianjin Airlines,2018-10-01,219.77866666666606
+Tianjin Airlines,Tianjin Airlines,2018-11-01,212.55399999999938
+Tianjin Airlines,Tianjin Airlines,2018-12-01,250.68699999999941
+United Airlines,United Airlines,2017-11-01,
+United Airlines,United Airlines,2017-12-01,
+United Airlines,United Airlines,2018-01-01,498.9169999999994
+United Airlines,United Airlines,2018-02-01,474.7913333333327
+United Airlines,United Airlines,2018-03-01,507.55333333333266
+United Airlines,United Airlines,2018-04-01,515.1313333333327
+United Airlines,United Airlines,2018-05-01,576.5843333333327
+United Airlines,United Airlines,2018-06-01,635.6069999999994
+United Airlines,United Airlines,2018-07-01,750.9176666666659
+United Airlines,United Airlines,2018-08-01,756.9119999999994
+United Airlines,United Airlines,2018-09-01,689.8749999999994
+United Airlines,United Airlines,2018-10-01,618.0959999999994
+United Airlines,United Airlines,2018-11-01,568.6809999999995
+United Airlines,United Airlines,2018-12-01,544.4829999999994
+United Parcel Service,United Parcel Service,2017-11-01,
+United Parcel Service,United Parcel Service,2017-12-01,
+United Parcel Service,United Parcel Service,2018-01-01,1706.6459999999995
+United Parcel Service,United Parcel Service,2018-02-01,1569.1303333333328
+United Parcel Service,United Parcel Service,2018-03-01,1605.7189999999994
+United Parcel Service,United Parcel Service,2018-04-01,1694.6789999999994
+United Parcel Service,United Parcel Service,2018-05-01,1849.1923333333325
+United Parcel Service,United Parcel Service,2018-06-01,1876.4253333333327
+United Parcel Service,United Parcel Service,2018-07-01,1835.6886666666662
+United Parcel Service,United Parcel Service,2018-08-01,1756.5273333333328
+United Parcel Service,United Parcel Service,2018-09-01,1717.4643333333327
+United Parcel Service,United Parcel Service,2018-10-01,1818.9963333333326
+United Parcel Service,United Parcel Service,2018-11-01,1702.575333333333
+United Parcel Service,United Parcel Service,2018-12-01,1597.5886666666663
+Vietnam Airlines,Vietnam Airlines,2017-11-01,
+Vietnam Airlines,Vietnam Airlines,2017-12-01,
+Vietnam Airlines,Vietnam Airlines,2018-01-01,823.4693333333329
+Vietnam Airlines,Vietnam Airlines,2018-02-01,782.8689999999993
+Vietnam Airlines,Vietnam Airlines,2018-03-01,809.3293333333328
+Vietnam Airlines,Vietnam Airlines,2018-04-01,876.9123333333328
+Vietnam Airlines,Vietnam Airlines,2018-05-01,894.4056666666661
+Vietnam Airlines,Vietnam Airlines,2018-06-01,902.7003333333328
+Vietnam Airlines,Vietnam Airlines,2018-07-01,880.0663333333328
+Vietnam Airlines,Vietnam Airlines,2018-08-01,896.2533333333328
+Vietnam Airlines,Vietnam Airlines,2018-09-01,936.764666666666
+Vietnam Airlines,Vietnam Airlines,2018-10-01,942.6476666666662
+Vietnam Airlines,Vietnam Airlines,2018-11-01,930.6029999999995
+Vietnam Airlines,Vietnam Airlines,2018-12-01,859.6213333333329
+Virgin Australia,Virgin Australia,2017-11-01,
+Virgin Australia,Virgin Australia,2017-12-01,
+Virgin Australia,Virgin Australia,2018-01-01,946.1956666666662
+Virgin Australia,Virgin Australia,2018-02-01,822.8839999999994
+Virgin Australia,Virgin Australia,2018-03-01,807.2426666666661
+Virgin Australia,Virgin Australia,2018-04-01,864.9543333333328
+Virgin Australia,Virgin Australia,2018-05-01,961.8656666666661
+Virgin Australia,Virgin Australia,2018-06-01,1049.462333333333
+Virgin Australia,Virgin Australia,2018-07-01,1232.8736666666662
+Virgin Australia,Virgin Australia,2018-08-01,1498.8659999999993
+Virgin Australia,Virgin Australia,2018-09-01,1560.184666666666
+Virgin Australia,Virgin Australia,2018-10-01,1534.9519999999993
+Virgin Australia,Virgin Australia,2018-11-01,1427.3606666666662
+Virgin Australia,Virgin Australia,2018-12-01,1402.8053333333328
+Virgin Samoa,Virgin Samoa,2017-11-01,
+Xiamen Airlines,Xiamen Airlines,2017-11-01,
+Xiamen Airlines,Xiamen Airlines,2017-12-01,
+Xiamen Airlines,Xiamen Airlines,2018-01-01,428.3826666666661
+Xiamen Airlines,Xiamen Airlines,2018-02-01,348.7543333333328
+Xiamen Airlines,Xiamen Airlines,2018-03-01,352.47499999999945
+Xiamen Airlines,Xiamen Airlines,2018-04-01,381.6966666666661
+Xiamen Airlines,Xiamen Airlines,2018-05-01,458.98066666666614
+Xiamen Airlines,Xiamen Airlines,2018-06-01,461.48699999999945
+Xiamen Airlines,Xiamen Airlines,2018-07-01,485.7449999999995
+Xiamen Airlines,Xiamen Airlines,2018-08-01,485.9419999999995
+Xiamen Airlines,Xiamen Airlines,2018-09-01,493.6259999999995
+Xiamen Airlines,Xiamen Airlines,2018-10-01,457.8633333333328
+Xiamen Airlines,Xiamen Airlines,2018-11-01,468.73966666666615
+Xiamen Airlines,Xiamen Airlines,2018-12-01,460.4883333333328

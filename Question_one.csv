@@ -1,0 +1,746 @@
+Airline,Month,Passengers_In,Passengers_Out
+Air Caledonie International,Apr,4965.0,4911.0
+Air Caledonie International,Aug,5575.0,5017.0
+Air Caledonie International,Dec,6944.0,5827.0
+Air Caledonie International,Feb,3889.0,6148.0
+Air Caledonie International,Jan,8291.0,7336.0
+Air Caledonie International,Jul,3969.0,4200.0
+Air Caledonie International,Jun,4001.0,5143.0
+Air Caledonie International,Mar,3957.0,4409.0
+Air Caledonie International,May,3996.0,3786.0
+Air Caledonie International,Nov,5233.0,5542.0
+Air Caledonie International,Oct,5962.0,5901.0
+Air Caledonie International,Sep,4377.0,4832.0
+Air Canada,Apr,13149.0,18147.0
+Air Canada,Aug,18096.0,19464.0
+Air Canada,Dec,16792.0,20523.0
+Air Canada,Feb,18173.0,14098.0
+Air Canada,Jan,20122.0,16999.0
+Air Canada,Jul,20502.0,19483.0
+Air Canada,Jun,16202.0,18943.0
+Air Canada,Mar,16966.0,18414.0
+Air Canada,May,13557.0,18280.0
+Air Canada,Nov,14694.0,14857.0
+Air Canada,Oct,17104.0,11799.0
+Air Canada,Sep,18211.0,15858.0
+Air Chathams,Dec,169.0,144.0
+Air Chathams,Nov,166.0,137.0
+Air Chathams,Oct,124.0,138.0
+Air Chathams,Sep,90.0,87.0
+Air China,Apr,13555.0,14829.0
+Air China,Aug,11676.0,13914.0
+Air China,Dec,18332.0,23232.0
+Air China,Feb,27454.0,22903.0
+Air China,Jan,28053.0,24187.0
+Air China,Jul,11095.0,12879.0
+Air China,Jun,10001.0,14746.0
+Air China,Mar,20223.0,18759.0
+Air China,May,11015.0,14577.0
+Air China,Nov,16089.0,20320.0
+Air China,Oct,12003.0,14687.0
+Air China,Sep,9657.0,13977.0
+Air India,Apr,7901.0,7867.0
+Air India,Aug,8453.0,7521.0
+Air India,Dec,7794.0,8536.0
+Air India,Feb,7863.0,6094.0
+Air India,Jan,8510.0,7573.0
+Air India,Jul,8395.0,6145.0
+Air India,Jun,8144.0,7827.0
+Air India,Mar,7270.0,6841.0
+Air India,May,7963.0,6119.0
+Air India,Nov,7051.0,7790.0
+Air India,Oct,8121.0,7491.0
+Air India,Sep,7630.0,7475.0
+Air Mauritius,Apr,1755.0,2043.0
+Air Mauritius,Aug,1751.0,1808.0
+Air Mauritius,Dec,2870.0,3067.0
+Air Mauritius,Feb,2010.0,1417.0
+Air Mauritius,Jan,3535.0,3098.0
+Air Mauritius,Jul,2458.0,2213.0
+Air Mauritius,Jun,1680.0,2100.0
+Air Mauritius,Mar,1641.0,1873.0
+Air Mauritius,May,2040.0,2088.0
+Air Mauritius,Nov,2028.0,1786.0
+Air Mauritius,Oct,2434.0,2034.0
+Air Mauritius,Sep,2314.0,2157.0
+Air New Zealand,Apr,124791.0,116423.0
+Air New Zealand,Aug,113093.0,114887.0
+Air New Zealand,Dec,130200.0,137857.0
+Air New Zealand,Feb,119061.0,118649.0
+Air New Zealand,Jan,144286.0,133584.0
+Air New Zealand,Jul,120321.0,118084.0
+Air New Zealand,Jun,98665.0,102327.0
+Air New Zealand,Mar,135759.0,126866.0
+Air New Zealand,May,107654.0,99812.0
+Air New Zealand,Nov,120886.0,124781.0
+Air New Zealand,Oct,123073.0,124450.0
+Air New Zealand,Sep,111691.0,115780.0
+Air Niugini,Apr,6540.0,6949.0
+Air Niugini,Aug,6107.0,6078.0
+Air Niugini,Dec,7333.0,7161.0
+Air Niugini,Feb,5603.0,5382.0
+Air Niugini,Jan,6776.0,7716.0
+Air Niugini,Jul,6832.0,6941.0
+Air Niugini,Jun,5862.0,6268.0
+Air Niugini,Mar,6407.0,6053.0
+Air Niugini,May,5596.0,5339.0
+Air Niugini,Nov,5917.0,6231.0
+Air Niugini,Oct,6578.0,5925.0
+Air Niugini,Sep,6453.0,7203.0
+Air Vanuatu,Apr,5181.0,5102.0
+Air Vanuatu,Aug,6484.0,5838.0
+Air Vanuatu,Dec,5378.0,7529.0
+Air Vanuatu,Feb,2899.0,3119.0
+Air Vanuatu,Jan,6436.0,5100.0
+Air Vanuatu,Jul,8231.0,7787.0
+Air Vanuatu,Jun,4932.0,6009.0
+Air Vanuatu,Mar,4079.0,3970.0
+Air Vanuatu,May,4442.0,3954.0
+Air Vanuatu,Nov,5930.0,5491.0
+Air Vanuatu,Oct,7857.0,6745.0
+Air Vanuatu,Sep,6496.0,7031.0
+AirAsia X,Apr,44710.0,46104.0
+AirAsia X,Aug,44274.0,38451.0
+AirAsia X,Dec,46737.0,67575.0
+AirAsia X,Feb,50781.0,33332.0
+AirAsia X,Jan,65337.0,54196.0
+AirAsia X,Jul,66794.0,49450.0
+AirAsia X,Jun,34656.0,45329.0
+AirAsia X,Mar,40187.0,34638.0
+AirAsia X,May,46475.0,38083.0
+AirAsia X,Nov,37283.0,38393.0
+AirAsia X,Oct,50097.0,39247.0
+AirAsia X,Sep,39068.0,42165.0
+All Nippon Airways,Apr,5420.0,5214.0
+All Nippon Airways,Aug,5768.0,6136.0
+All Nippon Airways,Dec,9365.0,11554.0
+All Nippon Airways,Feb,6101.0,5163.0
+All Nippon Airways,Jan,6548.0,6222.0
+All Nippon Airways,Jul,6090.0,4860.0
+All Nippon Airways,Jun,4065.0,5090.0
+All Nippon Airways,Mar,5742.0,6404.0
+All Nippon Airways,May,5089.0,5580.0
+All Nippon Airways,Nov,10294.0,10175.0
+All Nippon Airways,Oct,11060.0,10267.0
+All Nippon Airways,Sep,8381.0,11251.0
+American Airlines,Apr,7685.0,8075.0
+American Airlines,Aug,7286.0,7762.0
+American Airlines,Dec,7480.0,7592.0
+American Airlines,Feb,7466.0,6507.0
+American Airlines,Jan,8648.0,7160.0
+American Airlines,Jul,8449.0,7964.0
+American Airlines,Jun,8156.0,7865.0
+American Airlines,Mar,7717.0,7996.0
+American Airlines,May,8482.0,7776.0
+American Airlines,Nov,6976.0,6145.0
+American Airlines,Oct,7281.0,6096.0
+American Airlines,Sep,6800.0,7060.0
+Asiana Airlines,Apr,7089.0,7127.0
+Asiana Airlines,Aug,7976.0,8750.0
+Asiana Airlines,Dec,10962.0,13820.0
+Asiana Airlines,Feb,10623.0,11663.0
+Asiana Airlines,Jan,12432.0,14579.0
+Asiana Airlines,Jul,8837.0,7238.0
+Asiana Airlines,Jun,8204.0,8209.0
+Asiana Airlines,Mar,11450.0,13101.0
+Asiana Airlines,May,7121.0,7227.0
+Asiana Airlines,Nov,11033.0,10029.0
+Asiana Airlines,Oct,8687.0,8099.0
+Asiana Airlines,Sep,7379.0,7439.0
+Batik Air Indonesia,Apr,2796.0,2880.0
+Batik Air Indonesia,Aug,4490.0,4161.0
+Batik Air Indonesia,Dec,2327.0,4140.0
+Batik Air Indonesia,Feb,1623.0,867.0
+Batik Air Indonesia,Jan,6329.0,3515.0
+Batik Air Indonesia,Jul,5041.0,4489.0
+Batik Air Indonesia,Jun,3357.0,4140.0
+Batik Air Indonesia,Mar,1617.0,1551.0
+Batik Air Indonesia,May,2971.0,2755.0
+Batik Air Indonesia,Nov,3163.0,2449.0
+Batik Air Indonesia,Oct,4954.0,4032.0
+Batik Air Indonesia,Sep,4209.0,4327.0
+Beijing Capital Airlines,Apr,3172.0,3203.0
+Beijing Capital Airlines,Aug,4986.0,4729.0
+Beijing Capital Airlines,Dec,4306.0,5791.0
+Beijing Capital Airlines,Feb,4734.0,4361.0
+Beijing Capital Airlines,Jan,5028.0,4560.0
+Beijing Capital Airlines,Jul,5153.0,4297.0
+Beijing Capital Airlines,Jun,3211.0,3685.0
+Beijing Capital Airlines,Mar,4103.0,3913.0
+Beijing Capital Airlines,May,2899.0,2712.0
+Beijing Capital Airlines,Nov,3734.0,4342.0
+Beijing Capital Airlines,Oct,4882.0,3801.0
+Beijing Capital Airlines,Sep,4325.0,4848.0
+British Airways,Apr,5856.0,8331.0
+British Airways,Aug,6072.0,6559.0
+British Airways,Dec,7489.0,8603.0
+British Airways,Feb,7622.0,7101.0
+British Airways,Jan,8870.0,7576.0
+British Airways,Jul,5890.0,6693.0
+British Airways,Jun,5780.0,6754.0
+British Airways,Mar,6121.0,7921.0
+British Airways,May,5861.0,8058.0
+British Airways,Nov,8248.0,7620.0
+British Airways,Oct,8669.0,6190.0
+British Airways,Sep,7153.0,6954.0
+Cathay Pacific Airways,Apr,83936.0,87968.0
+Cathay Pacific Airways,Aug,74781.0,82218.0
+Cathay Pacific Airways,Dec,80575.0,100445.0
+Cathay Pacific Airways,Feb,84913.0,71819.0
+Cathay Pacific Airways,Jan,95907.0,75295.0
+Cathay Pacific Airways,Jul,80868.0,72970.0
+Cathay Pacific Airways,Jun,69626.0,83729.0
+Cathay Pacific Airways,Mar,73126.0,75914.0
+Cathay Pacific Airways,May,71332.0,78268.0
+Cathay Pacific Airways,Nov,71012.0,74429.0
+Cathay Pacific Airways,Oct,90928.0,74833.0
+Cathay Pacific Airways,Sep,76582.0,78001.0
+Cebu Pacific Air,Apr,13156.0,11624.0
+Cebu Pacific Air,Aug,11001.0,9019.0
+Cebu Pacific Air,Dec,11023.0,13350.0
+Cebu Pacific Air,Feb,12811.0,8819.0
+Cebu Pacific Air,Jan,16158.0,13545.0
+Cebu Pacific Air,Jul,13921.0,9935.0
+Cebu Pacific Air,Jun,10837.0,12105.0
+Cebu Pacific Air,Mar,10867.0,9383.0
+Cebu Pacific Air,May,12165.0,10027.0
+Cebu Pacific Air,Nov,9493.0,9832.0
+Cebu Pacific Air,Oct,13064.0,10243.0
+Cebu Pacific Air,Sep,9941.0,9531.0
+China Airlines,Apr,21928.0,24056.0
+China Airlines,Aug,23242.0,25334.0
+China Airlines,Dec,22181.0,32961.0
+China Airlines,Feb,20258.0,17123.0
+China Airlines,Jan,32838.0,25724.0
+China Airlines,Jul,27966.0,24868.0
+China Airlines,Jun,20315.0,24206.0
+China Airlines,Mar,17489.0,20150.0
+China Airlines,May,16192.0,17755.0
+China Airlines,Nov,19552.0,23187.0
+China Airlines,Oct,23745.0,22779.0
+China Airlines,Sep,20752.0,25200.0
+China Eastern Airlines,Apr,31263.0,33201.0
+China Eastern Airlines,Aug,33170.0,35479.0
+China Eastern Airlines,Dec,39130.0,50172.0
+China Eastern Airlines,Feb,47541.0,40275.0
+China Eastern Airlines,Jan,50330.0,41945.0
+China Eastern Airlines,Jul,36012.0,29967.0
+China Eastern Airlines,Jun,29729.0,33752.0
+China Eastern Airlines,Mar,31185.0,29415.0
+China Eastern Airlines,May,32392.0,33800.0
+China Eastern Airlines,Nov,37204.0,41974.0
+China Eastern Airlines,Oct,38057.0,35441.0
+China Eastern Airlines,Sep,30961.0,34001.0
+China Southern Airlines,Apr,54390.0,55228.0
+China Southern Airlines,Aug,46541.0,46636.0
+China Southern Airlines,Dec,66008.0,74824.0
+China Southern Airlines,Feb,78942.0,68859.0
+China Southern Airlines,Jan,84428.0,73956.0
+China Southern Airlines,Jul,46644.0,42786.0
+China Southern Airlines,Jun,41960.0,45516.0
+China Southern Airlines,Mar,53269.0,49943.0
+China Southern Airlines,May,45571.0,45594.0
+China Southern Airlines,Nov,52067.0,53318.0
+China Southern Airlines,Oct,46531.0,45043.0
+China Southern Airlines,Sep,42619.0,43593.0
+Citilink Indonesia,Dec,2142.0,4226.0
+Citilink Indonesia,Nov,1043.0,1248.0
+Delta Air Lines,Apr,7612.0,8135.0
+Delta Air Lines,Aug,8028.0,7884.0
+Delta Air Lines,Dec,8208.0,7613.0
+Delta Air Lines,Feb,7590.0,6424.0
+Delta Air Lines,Jan,8428.0,7372.0
+Delta Air Lines,Jul,8549.0,7757.0
+Delta Air Lines,Jun,8200.0,7692.0
+Delta Air Lines,Mar,8289.0,8246.0
+Delta Air Lines,May,8471.0,7377.0
+Delta Air Lines,Nov,8174.0,7134.0
+Delta Air Lines,Oct,8270.0,6677.0
+Delta Air Lines,Sep,8002.0,7733.0
+Donghai Airlines,Apr,282.0,209.0
+Donghai Airlines,Aug,296.0,323.0
+Donghai Airlines,Dec,190.0,458.0
+Donghai Airlines,Feb,630.0,489.0
+Donghai Airlines,Jan,720.0,421.0
+Donghai Airlines,Jul,548.0,251.0
+Donghai Airlines,Jun,240.0,293.0
+Donghai Airlines,Mar,332.0,283.0
+Donghai Airlines,May,215.0,179.0
+Donghai Airlines,Nov,153.0,176.0
+Donghai Airlines,Oct,309.0,337.0
+Donghai Airlines,Sep,307.0,230.0
+Emirates,Apr,101614.0,127882.0
+Emirates,Aug,116802.0,128224.0
+Emirates,Dec,133280.0,150758.0
+Emirates,Feb,125534.0,88192.0
+Emirates,Jan,173150.0,135101.0
+Emirates,Jul,145940.0,111550.0
+Emirates,Jun,105525.0,133714.0
+Emirates,Mar,101540.0,120468.0
+Emirates,May,94419.0,115627.0
+Emirates,Nov,101890.0,97339.0
+Emirates,Oct,144069.0,82236.0
+Emirates,Sep,128559.0,123760.0
+Etihad Airways,Apr,38250.0,48128.0
+Etihad Airways,Aug,48200.0,53814.0
+Etihad Airways,Dec,42759.0,50568.0
+Etihad Airways,Feb,40683.0,30152.0
+Etihad Airways,Jan,56934.0,42852.0
+Etihad Airways,Jul,55043.0,44185.0
+Etihad Airways,Jun,39179.0,53202.0
+Etihad Airways,Mar,27312.0,36637.0
+Etihad Airways,May,31958.0,51096.0
+Etihad Airways,Nov,37582.0,38975.0
+Etihad Airways,Oct,54175.0,33853.0
+Etihad Airways,Sep,51182.0,48843.0
+Eva Air,Apr,4097.0,4317.0
+Eva Air,Aug,5771.0,5903.0
+Eva Air,Dec,7407.0,9981.0
+Eva Air,Feb,4605.0,4181.0
+Eva Air,Jan,6514.0,5596.0
+Eva Air,Jul,2337.0,1137.0
+Eva Air,Jun,2840.0,3191.0
+Eva Air,Mar,4329.0,4600.0
+Eva Air,May,4676.0,4312.0
+Eva Air,Nov,4054.0,4562.0
+Eva Air,Oct,5372.0,4514.0
+Eva Air,Sep,4448.0,4620.0
+Federal Express Corporation,Apr,0.0,0.0
+Federal Express Corporation,Aug,0.0,0.0
+Federal Express Corporation,Dec,0.0,0.0
+Federal Express Corporation,Feb,0.0,0.0
+Federal Express Corporation,Jan,0.0,0.0
+Federal Express Corporation,Jul,0.0,0.0
+Federal Express Corporation,Jun,0.0,0.0
+Federal Express Corporation,Mar,0.0,0.0
+Federal Express Corporation,May,0.0,0.0
+Federal Express Corporation,Nov,0.0,0.0
+Federal Express Corporation,Oct,0.0,0.0
+Federal Express Corporation,Sep,0.0,0.0
+Fiji Airways,Apr,20873.0,23540.0
+Fiji Airways,Aug,19380.0,19425.0
+Fiji Airways,Dec,22285.0,26091.0
+Fiji Airways,Feb,14682.0,14383.0
+Fiji Airways,Jan,26844.0,22497.0
+Fiji Airways,Jul,24859.0,23038.0
+Fiji Airways,Jun,19771.0,23622.0
+Fiji Airways,Mar,16997.0,18031.0
+Fiji Airways,May,20347.0,20470.0
+Fiji Airways,Nov,22180.0,21109.0
+Fiji Airways,Oct,23534.0,21793.0
+Fiji Airways,Sep,17838.0,20385.0
+Garuda Indonesia,Apr,22656.0,26031.0
+Garuda Indonesia,Aug,25759.0,26672.0
+Garuda Indonesia,Dec,22271.0,30714.0
+Garuda Indonesia,Feb,23195.0,16279.0
+Garuda Indonesia,Jan,36343.0,27185.0
+Garuda Indonesia,Jul,32757.0,31372.0
+Garuda Indonesia,Jun,23945.0,32531.0
+Garuda Indonesia,Mar,18627.0,19480.0
+Garuda Indonesia,May,20888.0,19590.0
+Garuda Indonesia,Nov,21756.0,21507.0
+Garuda Indonesia,Oct,26896.0,24344.0
+Garuda Indonesia,Sep,26064.0,27775.0
+Hainan Airlines,Apr,10927.0,12254.0
+Hainan Airlines,Aug,10875.0,13126.0
+Hainan Airlines,Dec,6257.0,10791.0
+Hainan Airlines,Feb,11601.0,9798.0
+Hainan Airlines,Jan,13380.0,10477.0
+Hainan Airlines,Jul,13704.0,9286.0
+Hainan Airlines,Jun,7581.0,10579.0
+Hainan Airlines,Mar,9704.0,8229.0
+Hainan Airlines,May,9082.0,9350.0
+Hainan Airlines,Nov,6033.0,8537.0
+Hainan Airlines,Oct,10920.0,9374.0
+Hainan Airlines,Sep,7994.0,9760.0
+Hawaiian Airlines,Apr,9303.0,10179.0
+Hawaiian Airlines,Aug,7735.0,9730.0
+Hawaiian Airlines,Dec,9060.0,11076.0
+Hawaiian Airlines,Feb,7893.0,6709.0
+Hawaiian Airlines,Jan,11585.0,9975.0
+Hawaiian Airlines,Jul,10307.0,9761.0
+Hawaiian Airlines,Jun,7637.0,9541.0
+Hawaiian Airlines,Mar,7233.0,8891.0
+Hawaiian Airlines,May,10546.0,10385.0
+Hawaiian Airlines,Nov,8335.0,8716.0
+Hawaiian Airlines,Oct,11855.0,10974.0
+Hawaiian Airlines,Sep,9534.0,11333.0
+Indonesia AirAsia,Apr,13873.0,14223.0
+Indonesia AirAsia,Aug,14684.0,13965.0
+Indonesia AirAsia,Dec,12272.0,13655.0
+Indonesia AirAsia,Feb,11632.0,9904.0
+Indonesia AirAsia,Jan,15508.0,12904.0
+Indonesia AirAsia,Jul,15344.0,14787.0
+Indonesia AirAsia,Jun,13677.0,14528.0
+Indonesia AirAsia,Mar,12554.0,12401.0
+Indonesia AirAsia,May,14199.0,13631.0
+Indonesia AirAsia,Nov,13880.0,12864.0
+Indonesia AirAsia,Oct,15342.0,14150.0
+Indonesia AirAsia,Sep,14296.0,14209.0
+Japan Airlines,Apr,7751.0,8241.0
+Japan Airlines,Aug,10195.0,10871.0
+Japan Airlines,Dec,9414.0,11635.0
+Japan Airlines,Feb,9699.0,8962.0
+Japan Airlines,Jan,10390.0,9835.0
+Japan Airlines,Jul,10831.0,8475.0
+Japan Airlines,Jun,8696.0,10105.0
+Japan Airlines,Mar,8517.0,9728.0
+Japan Airlines,May,8473.0,10236.0
+Japan Airlines,Nov,10782.0,11081.0
+Japan Airlines,Oct,10712.0,10528.0
+Japan Airlines,Sep,8810.0,11070.0
+Jetstar,Apr,149934.0,146970.0
+Jetstar,Aug,160071.0,159405.0
+Jetstar,Dec,157645.0,173411.0
+Jetstar,Feb,143772.0,132168.0
+Jetstar,Jan,173290.0,161665.0
+Jetstar,Jul,169580.0,159634.0
+Jetstar,Jun,138158.0,144458.0
+Jetstar,Mar,148059.0,146319.0
+Jetstar,May,138962.0,138661.0
+Jetstar,Nov,149024.0,148408.0
+Jetstar,Oct,167420.0,152287.0
+Jetstar,Sep,158667.0,161114.0
+Jetstar Asia,Apr,3735.0,3536.0
+Jetstar Asia,Aug,3530.0,3161.0
+Jetstar Asia,Dec,2372.0,4543.0
+Jetstar Asia,Feb,3657.0,2794.0
+Jetstar Asia,Jan,3639.0,3309.0
+Jetstar Asia,Jul,4416.0,3236.0
+Jetstar Asia,Jun,4033.0,4392.0
+Jetstar Asia,Mar,3364.0,2960.0
+Jetstar Asia,May,3944.0,3585.0
+Jetstar Asia,Nov,2874.0,2986.0
+Jetstar Asia,Oct,3401.0,2612.0
+Jetstar Asia,Sep,3186.0,3047.0
+Korean Air,Apr,10198.0,11530.0
+Korean Air,Aug,11095.0,11998.0
+Korean Air,Dec,16894.0,18520.0
+Korean Air,Feb,17162.0,14635.0
+Korean Air,Jan,19782.0,15510.0
+Korean Air,Jul,12117.0,9860.0
+Korean Air,Jun,11050.0,11534.0
+Korean Air,Mar,12798.0,15575.0
+Korean Air,May,10774.0,11199.0
+Korean Air,Nov,15114.0,14018.0
+Korean Air,Oct,13023.0,11292.0
+Korean Air,Sep,10626.0,10819.0
+LATAM Airlines,Apr,9733.0,9384.0
+LATAM Airlines,Aug,9569.0,9251.0
+LATAM Airlines,Dec,8214.0,8214.0
+LATAM Airlines,Feb,9915.0,9504.0
+LATAM Airlines,Jan,10973.0,10164.0
+LATAM Airlines,Jul,10609.0,9908.0
+LATAM Airlines,Jun,8126.0,8632.0
+LATAM Airlines,Mar,10294.0,11213.0
+LATAM Airlines,May,8948.0,8352.0
+LATAM Airlines,Nov,8665.0,8360.0
+LATAM Airlines,Oct,7845.0,7436.0
+LATAM Airlines,Sep,8633.0,8782.0
+Malaysia Airlines,Apr,45820.0,45312.0
+Malaysia Airlines,Aug,54222.0,48991.0
+Malaysia Airlines,Dec,45079.0,60666.0
+Malaysia Airlines,Feb,45358.0,35630.0
+Malaysia Airlines,Jan,52255.0,44582.0
+Malaysia Airlines,Jul,59214.0,46996.0
+Malaysia Airlines,Jun,39370.0,49268.0
+Malaysia Airlines,Mar,42014.0,34760.0
+Malaysia Airlines,May,45669.0,38056.0
+Malaysia Airlines,Nov,47545.0,47438.0
+Malaysia Airlines,Oct,53012.0,44081.0
+Malaysia Airlines,Sep,48006.0,48091.0
+Malindo Air,Apr,13993.0,15385.0
+Malindo Air,Aug,19841.0,18993.0
+Malindo Air,Dec,13943.0,21755.0
+Malindo Air,Feb,13009.0,8087.0
+Malindo Air,Jan,17870.0,11988.0
+Malindo Air,Jul,18539.0,17202.0
+Malindo Air,Jun,13708.0,16574.0
+Malindo Air,Mar,10620.0,10689.0
+Malindo Air,May,14567.0,13189.0
+Malindo Air,Nov,18186.0,17751.0
+Malindo Air,Oct,22338.0,19192.0
+Malindo Air,Sep,20075.0,20436.0
+Nauru Airlines,Apr,715.0,799.0
+Nauru Airlines,Aug,729.0,730.0
+Nauru Airlines,Dec,634.0,617.0
+Nauru Airlines,Feb,812.0,461.0
+Nauru Airlines,Jan,664.0,771.0
+Nauru Airlines,Jul,914.0,630.0
+Nauru Airlines,Jun,706.0,847.0
+Nauru Airlines,Mar,832.0,663.0
+Nauru Airlines,May,764.0,552.0
+Nauru Airlines,Nov,557.0,610.0
+Nauru Airlines,Oct,776.0,779.0
+Nauru Airlines,Sep,905.0,740.0
+Pacific Air Express,Apr,0.0,0.0
+Pacific Air Express,Aug,0.0,0.0
+Pacific Air Express,Dec,0.0,0.0
+Pacific Air Express,Feb,0.0,0.0
+Pacific Air Express,Jan,0.0,0.0
+Pacific Air Express,Jul,0.0,0.0
+Pacific Air Express,Jun,0.0,0.0
+Pacific Air Express,Mar,0.0,0.0
+Pacific Air Express,May,0.0,0.0
+Pacific Air Express,Nov,0.0,0.0
+Pacific Air Express,Oct,0.0,0.0
+Pacific Air Express,Sep,0.0,0.0
+Philippine Airlines,Apr,14960.0,16059.0
+Philippine Airlines,Aug,14040.0,12683.0
+Philippine Airlines,Dec,12217.0,20595.0
+Philippine Airlines,Feb,12429.0,9939.0
+Philippine Airlines,Jan,17290.0,16883.0
+Philippine Airlines,Jul,15168.0,12367.0
+Philippine Airlines,Jun,11523.0,12768.0
+Philippine Airlines,Mar,11904.0,10922.0
+Philippine Airlines,May,14407.0,11761.0
+Philippine Airlines,Nov,13379.0,15107.0
+Philippine Airlines,Oct,15512.0,13525.0
+Philippine Airlines,Sep,12102.0,14166.0
+Polar Air Cargo,Apr,0.0,0.0
+Polar Air Cargo,Aug,0.0,0.0
+Polar Air Cargo,Dec,0.0,0.0
+Polar Air Cargo,Feb,0.0,0.0
+Polar Air Cargo,Jan,0.0,0.0
+Polar Air Cargo,Jul,0.0,0.0
+Polar Air Cargo,Jun,0.0,0.0
+Polar Air Cargo,Mar,0.0,0.0
+Polar Air Cargo,May,0.0,0.0
+Polar Air Cargo,Nov,0.0,0.0
+Polar Air Cargo,Oct,0.0,0.0
+Polar Air Cargo,Sep,0.0,0.0
+Qantas Airways,Apr,306564.0,319292.0
+Qantas Airways,Aug,305397.0,310526.0
+Qantas Airways,Dec,318509.0,358093.0
+Qantas Airways,Feb,289261.0,260729.0
+Qantas Airways,Jan,361673.0,328363.0
+Qantas Airways,Jul,339264.0,308595.0
+Qantas Airways,Jun,281172.0,302677.0
+Qantas Airways,Mar,300687.0,298800.0
+Qantas Airways,May,296092.0,294663.0
+Qantas Airways,Nov,303377.0,298822.0
+Qantas Airways,Oct,322813.0,299862.0
+Qantas Airways,Sep,290880.0,306017.0
+Qatar Airways,Apr,44220.0,61871.0
+Qatar Airways,Aug,58704.0,64663.0
+Qatar Airways,Dec,53521.0,59850.0
+Qatar Airways,Feb,45766.0,39166.0
+Qatar Airways,Jan,63705.0,52813.0
+Qatar Airways,Jul,65387.0,57800.0
+Qatar Airways,Jun,45850.0,63993.0
+Qatar Airways,Mar,31556.0,54388.0
+Qatar Airways,May,40025.0,64307.0
+Qatar Airways,Nov,46588.0,46247.0
+Qatar Airways,Oct,58766.0,40604.0
+Qatar Airways,Sep,57628.0,57742.0
+Royal Brunei Airlines,Apr,4823.0,5750.0
+Royal Brunei Airlines,Aug,6667.0,7663.0
+Royal Brunei Airlines,Dec,6494.0,8725.0
+Royal Brunei Airlines,Feb,5588.0,4645.0
+Royal Brunei Airlines,Jan,6696.0,6373.0
+Royal Brunei Airlines,Jul,7669.0,6250.0
+Royal Brunei Airlines,Jun,3503.0,6871.0
+Royal Brunei Airlines,Mar,3433.0,4515.0
+Royal Brunei Airlines,May,3587.0,4583.0
+Royal Brunei Airlines,Nov,4718.0,5418.0
+Royal Brunei Airlines,Oct,7833.0,5678.0
+Royal Brunei Airlines,Sep,6569.0,7020.0
+Samoa Airways,Apr,1173.0,1170.0
+Samoa Airways,Aug,1806.0,1742.0
+Samoa Airways,Dec,1831.0,2231.0
+Samoa Airways,Feb,1098.0,776.0
+Samoa Airways,Jan,2257.0,1334.0
+Samoa Airways,Jul,1617.0,1677.0
+Samoa Airways,Jun,1336.0,1671.0
+Samoa Airways,Mar,1145.0,937.0
+Samoa Airways,May,1423.0,1268.0
+Samoa Airways,Nov,1688.0,1587.0
+Samoa Airways,Oct,1947.0,1633.0
+Samoa Airways,Sep,1905.0,1871.0
+Scoot Tigerair,Apr,25097.0,26513.0
+Scoot Tigerair,Aug,26502.0,25240.0
+Scoot Tigerair,Dec,41460.0,55202.0
+Scoot Tigerair,Feb,30897.0,22651.0
+Scoot Tigerair,Jan,36117.0,29692.0
+Scoot Tigerair,Jul,32257.0,28619.0
+Scoot Tigerair,Jun,22114.0,27368.0
+Scoot Tigerair,Mar,27068.0,24459.0
+Scoot Tigerair,May,20786.0,19017.0
+Scoot Tigerair,Nov,34309.0,35686.0
+Scoot Tigerair,Oct,34260.0,28980.0
+Scoot Tigerair,Sep,28729.0,28918.0
+Sichuan Airlines,Apr,5214.0,5694.0
+Sichuan Airlines,Aug,4536.0,4647.0
+Sichuan Airlines,Dec,4121.0,7048.0
+Sichuan Airlines,Feb,5449.0,4220.0
+Sichuan Airlines,Jan,5554.0,4557.0
+Sichuan Airlines,Jul,6123.0,4239.0
+Sichuan Airlines,Jun,3408.0,5473.0
+Sichuan Airlines,Mar,4392.0,3990.0
+Sichuan Airlines,May,3727.0,4551.0
+Sichuan Airlines,Nov,4216.0,5085.0
+Sichuan Airlines,Oct,5151.0,4510.0
+Sichuan Airlines,Sep,3864.0,4526.0
+Silk Air,Apr,4881.0,5581.0
+Silk Air,Aug,7472.0,9126.0
+Silk Air,Dec,6038.0,9621.0
+Silk Air,Feb,4632.0,3762.0
+Silk Air,Jan,7153.0,5810.0
+Silk Air,Jul,8892.0,7782.0
+Silk Air,Jun,5560.0,7107.0
+Silk Air,Mar,3765.0,4090.0
+Silk Air,May,4794.0,5550.0
+Silk Air,Nov,6348.0,6792.0
+Silk Air,Oct,8325.0,7340.0
+Silk Air,Sep,7485.0,6811.0
+Singapore Airlines,Apr,144605.0,150160.0
+Singapore Airlines,Aug,151355.0,148586.0
+Singapore Airlines,Dec,143594.0,172933.0
+Singapore Airlines,Feb,145765.0,117067.0
+Singapore Airlines,Jan,168246.0,145467.0
+Singapore Airlines,Jul,170605.0,146399.0
+Singapore Airlines,Jun,138426.0,160142.0
+Singapore Airlines,Mar,136824.0,133947.0
+Singapore Airlines,May,138414.0,138862.0
+Singapore Airlines,Nov,145818.0,146466.0
+Singapore Airlines,Oct,165042.0,141769.0
+Singapore Airlines,Sep,150069.0,146679.0
+Solomon Airlines,Apr,1512.0,1302.0
+Solomon Airlines,Aug,1828.0,1475.0
+Solomon Airlines,Dec,1755.0,1830.0
+Solomon Airlines,Feb,1142.0,1141.0
+Solomon Airlines,Jan,1690.0,1411.0
+Solomon Airlines,Jul,1995.0,1677.0
+Solomon Airlines,Jun,1621.0,1609.0
+Solomon Airlines,Mar,1628.0,1409.0
+Solomon Airlines,May,1618.0,1508.0
+Solomon Airlines,Nov,1865.0,1693.0
+Solomon Airlines,Oct,1913.0,1640.0
+Solomon Airlines,Sep,1720.0,1869.0
+South African Airways,Apr,6403.0,6797.0
+South African Airways,Aug,5829.0,5661.0
+South African Airways,Dec,5809.0,7193.0
+South African Airways,Feb,5007.0,4018.0
+South African Airways,Jan,6901.0,6297.0
+South African Airways,Jul,6692.0,5824.0
+South African Airways,Jun,4951.0,5709.0
+South African Airways,Mar,5345.0,5754.0
+South African Airways,May,5406.0,5655.0
+South African Airways,Nov,4431.0,4712.0
+South African Airways,Oct,6696.0,4996.0
+South African Airways,Sep,6301.0,6654.0
+SriLankan Airlines,Apr,7719.0,7043.0
+SriLankan Airlines,Aug,8127.0,6899.0
+SriLankan Airlines,Dec,7667.0,8701.0
+SriLankan Airlines,Feb,7476.0,5457.0
+SriLankan Airlines,Jan,8550.0,7431.0
+SriLankan Airlines,Jul,8283.0,6476.0
+SriLankan Airlines,Jun,7125.0,7438.0
+SriLankan Airlines,Mar,7989.0,6227.0
+SriLankan Airlines,May,7543.0,5963.0
+SriLankan Airlines,Nov,7475.0,7114.0
+SriLankan Airlines,Oct,8327.0,6576.0
+SriLankan Airlines,Sep,7776.0,7307.0
+Tasman Cargo Airlines,Apr,0.0,0.0
+Tasman Cargo Airlines,Aug,0.0,0.0
+Tasman Cargo Airlines,Dec,0.0,0.0
+Tasman Cargo Airlines,Feb,0.0,0.0
+Tasman Cargo Airlines,Jan,0.0,0.0
+Tasman Cargo Airlines,Jul,0.0,0.0
+Tasman Cargo Airlines,Jun,0.0,0.0
+Tasman Cargo Airlines,Mar,0.0,0.0
+Tasman Cargo Airlines,May,0.0,0.0
+Tasman Cargo Airlines,Nov,0.0,0.0
+Tasman Cargo Airlines,Oct,0.0,0.0
+Tasman Cargo Airlines,Sep,0.0,0.0
+Thai AirAsia X,Aug,2952.0,2378.0
+Thai AirAsia X,Dec,2932.0,4096.0
+Thai AirAsia X,Jul,5233.0,3357.0
+Thai AirAsia X,Jun,392.0,686.0
+Thai AirAsia X,Nov,2723.0,2780.0
+Thai AirAsia X,Oct,3345.0,2581.0
+Thai AirAsia X,Sep,2430.0,2564.0
+Thai Airways International,Apr,32751.0,34645.0
+Thai Airways International,Aug,36781.0,36273.0
+Thai Airways International,Dec,35859.0,43757.0
+Thai Airways International,Feb,34170.0,30799.0
+Thai Airways International,Jan,37513.0,35968.0
+Thai Airways International,Jul,39001.0,37145.0
+Thai Airways International,Jun,28034.0,37011.0
+Thai Airways International,Mar,29489.0,31079.0
+Thai Airways International,May,29246.0,33209.0
+Thai Airways International,Nov,35357.0,40097.0
+Thai Airways International,Oct,38420.0,36259.0
+Thai Airways International,Sep,34112.0,35862.0
+Tianjin Airlines,Apr,1419.0,1351.0
+Tianjin Airlines,Aug,1503.0,1369.0
+Tianjin Airlines,Dec,3596.0,5183.0
+Tianjin Airlines,Feb,5212.0,4070.0
+Tianjin Airlines,Jan,5731.0,3680.0
+Tianjin Airlines,Jul,1926.0,1217.0
+Tianjin Airlines,Jun,1118.0,1408.0
+Tianjin Airlines,Mar,2909.0,2074.0
+Tianjin Airlines,May,1352.0,1135.0
+Tianjin Airlines,Nov,3032.0,3859.0
+Tianjin Airlines,Oct,2034.0,1239.0
+Tianjin Airlines,Sep,1551.0,1963.0
+United Airlines,Apr,19035.0,21344.0
+United Airlines,Aug,18973.0,20698.0
+United Airlines,Dec,27205.0,31293.0
+United Airlines,Feb,22724.0,19307.0
+United Airlines,Jan,28760.0,25435.0
+United Airlines,Jul,21442.0,20299.0
+United Airlines,Jun,19449.0,20575.0
+United Airlines,Mar,21740.0,25574.0
+United Airlines,May,20030.0,19763.0
+United Airlines,Nov,22971.0,21004.0
+United Airlines,Oct,20013.0,16362.0
+United Airlines,Sep,18082.0,18999.0
+United Parcel Service,Apr,0.0,0.0
+United Parcel Service,Aug,0.0,0.0
+United Parcel Service,Dec,0.0,0.0
+United Parcel Service,Feb,0.0,0.0
+United Parcel Service,Jan,0.0,0.0
+United Parcel Service,Jul,0.0,0.0
+United Parcel Service,Jun,0.0,0.0
+United Parcel Service,Mar,0.0,0.0
+United Parcel Service,May,0.0,0.0
+United Parcel Service,Nov,0.0,0.0
+United Parcel Service,Oct,0.0,0.0
+United Parcel Service,Sep,0.0,0.0
+Vietnam Airlines,Apr,17103.0,17731.0
+Vietnam Airlines,Aug,15797.0,14496.0
+Vietnam Airlines,Dec,16236.0,18911.0
+Vietnam Airlines,Feb,17831.0,14487.0
+Vietnam Airlines,Jan,18338.0,18351.0
+Vietnam Airlines,Jul,20295.0,18835.0
+Vietnam Airlines,Jun,15096.0,17822.0
+Vietnam Airlines,Mar,17228.0,15146.0
+Vietnam Airlines,May,15309.0,14241.0
+Vietnam Airlines,Nov,13996.0,14850.0
+Vietnam Airlines,Oct,16588.0,13498.0
+Vietnam Airlines,Sep,14769.0,15846.0
+Virgin Australia,Apr,123908.0,123984.0
+Virgin Australia,Aug,120965.0,126402.0
+Virgin Australia,Dec,124346.0,145963.0
+Virgin Australia,Feb,101154.0,96358.0
+Virgin Australia,Jan,143277.0,119826.0
+Virgin Australia,Jul,134444.0,121821.0
+Virgin Australia,Jun,104598.0,115004.0
+Virgin Australia,Mar,111055.0,108165.0
+Virgin Australia,May,108497.0,106356.0
+Virgin Australia,Nov,115184.0,116001.0
+Virgin Australia,Oct,129605.0,123215.0
+Virgin Australia,Sep,114399.0,119805.0
+Xiamen Airlines,Apr,9689.0,9692.0
+Xiamen Airlines,Aug,10019.0,9099.0
+Xiamen Airlines,Dec,9427.0,11512.0
+Xiamen Airlines,Feb,10128.0,8240.0
+Xiamen Airlines,Jan,10860.0,9869.0
+Xiamen Airlines,Jul,9744.0,7816.0
+Xiamen Airlines,Jun,8653.0,9072.0
+Xiamen Airlines,Mar,8815.0,7548.0
+Xiamen Airlines,May,7969.0,8160.0
+Xiamen Airlines,Nov,9071.0,9041.0
+Xiamen Airlines,Oct,9759.0,8367.0
+Xiamen Airlines,Sep,8859.0,9187.0
